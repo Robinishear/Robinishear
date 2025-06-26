@@ -174,7 +174,7 @@
 
 ### 🛠️ Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,html,css,git,github,vscode" />
+  <img src="https://i.ibb.co/HDB0TjV4/images-28.jpg" />
 </p>
 
 ---
