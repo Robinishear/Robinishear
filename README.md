@@ -131,7 +131,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on: Recipe Book App, Lawyer Finder SPA
+- 🔭 I’m currently working on: Recipe Book App, Lawyer Finder SPA 
 - 🌱 Learning: MongoDB, JWT Auth, Clean Architecture, CI/CD
 - 💬 Ask me about: JavaScript, React, Node.js, Express
 - 🎯 Goal: Become a successful full-stack dev & mentor others
