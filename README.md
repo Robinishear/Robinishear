@@ -3,9 +3,7 @@
 <p align="center"> 
   <img src="https://i.ibb.co/7tCbNdg3/240-F-377082215-Xd-CMMLYICc9u-Dt-X4b-FLP7k0bf-Rf5r-APF.jpg" />
 </p>
-<p align="center"> 
-  <img src="https://i.ibb.co/DPBypFw1/240-F-1230561665-yel-FQ0mi-B04-D37viaza-Nx-LD4s-Wbd-Tqc7.jpg" />
-</p>
+
 
 
 <h1 align="center">Hi 👋, I'm ✦𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 ✦</h1>
