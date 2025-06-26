@@ -210,7 +210,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RN_RObiN_vAI&theme=tokyonight" width="47%">
+  <img src="https://i.ibb.co/gZym1Wrp/db17197c-95a0-4fce-bcf6-7a53adc2c463.png">
 </p>
 
 ---
