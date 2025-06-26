@@ -163,7 +163,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://i.ibb.co/HDB0TjV4/images-28.jpg" />
+</p>
 ### 🌟 About Me
 - 🔭 I’m currently working on: `React Projects`, `MERN Stack`, `Google Maps`, `Recipe App`
 - 🌱 I’m currently learning: `Node.js`, `MongoDB`, `Full-Stack Web Dev`
@@ -173,9 +175,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
-<p align="left">
-  <img src="https://i.ibb.co/HDB0TjV4/images-28.jpg" />
-</p>
+
 
 ---
 
