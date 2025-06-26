@@ -162,7 +162,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Self-taught+Web+Developer;Always+Learning+and+Improving;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
----
 <p align="center">
   <img src="https://i.ibb.co/5hXRYnHh/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png" />
 </p>
