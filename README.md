@@ -3,9 +3,7 @@
 <p align="center"> 
   <img src="https://i.ibb.co/7tCbNdg3/240-F-377082215-Xd-CMMLYICc9u-Dt-X4b-FLP7k0bf-Rf5r-APF.jpg" />
 </p>
-<p align="center"> 
-  <img src="https://i.ibb.co/QFThkhBM/images-2.png" />
-</p>
+
 
 
 
@@ -62,7 +60,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=midnight-purple" />
 </p>
 
----
+---g
+<p align="center"> 
+  <img src="https://i.ibb.co/QFThkhBM/images-2.png" />
+</p>
 
 <div align="center">
   <img src="https://i.ibb.co/XZGXdPFy/240-F-318606217-Hk8jo2-MVo-I33-SQOk-Yrf-OF929-J7-Jg-IP0-P.jpg" />
