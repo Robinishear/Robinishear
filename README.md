@@ -7,7 +7,7 @@
 
 
 
-
+<h1 align="center">👋 Hello World, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
 <h3 align="center">✦ A Passionate Full-Stack Developer from Bangladesh ✦</h3>
 
 <p align="center"> 
@@ -121,7 +121,7 @@
 
 
 <!-- Header section -->
-<h1 align="center">👋 Hello World, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
+
 <h3 align="center">🚀 A Passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
