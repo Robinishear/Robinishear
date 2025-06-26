@@ -59,8 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=midnight-purple" />
 </p>
-
----g
 <p align="center"> 
   <img src="https://i.ibb.co/QFThkhBM/images-2.png" />
 </p>
