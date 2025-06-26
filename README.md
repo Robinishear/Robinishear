@@ -181,9 +181,9 @@
 
 ### 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinishear&show_icons=true&theme=tokyonight" alt="Robin's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinishear&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinishear&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robinishear&show_icons=true&theme=tokyonight" alt="Robin's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinishear&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
