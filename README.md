@@ -1,9 +1,10 @@
 <!-- ✨ RN Robin Vai - GitHub Profile README ✨ -->**
-<p align="center"> 
-  <img src="https://i.ibb.co/mCb8rMqN/file-00000000bfe461f8960aee1109f69b77.png" />
-</p>
+
 <p align="center"> 
   <img src="https://i.ibb.co/4ZBWm4TB/banner.jpg" alt="Typing SVG" />
+</p>
+<p align="center"> 
+  <img src="https://i.ibb.co/mCb8rMqN/file-00000000bfe461f8960aee1109f69b77.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm ✦𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 ✦</h1>
