@@ -119,7 +119,7 @@
 
 
 <!-- Header section -->
-<h1 align="center">👋 Hello World, I'm RN Robin</h1>
+<h1 align="center">👋 Hello World, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
 <h3 align="center">🚀 A Passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
@@ -150,14 +150,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-
-
-
-
-
-
-
 
 
 
@@ -278,7 +270,7 @@ bash
 🎨 Styling:          Tailwind CSS, DaisyUI
 
 
-<h1 align="center">👋 Hey there, I'm RN Robin</h1>
+<h1 align="center">👋 Hey there, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 </h1>
 <p align="center">💻 MERN Stack Developer | 🇷🇫 Bangladesh | 🌱 Always learning</p>
 
 <p align="center">
