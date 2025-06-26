@@ -63,9 +63,6 @@
   <img src="https://i.ibb.co/6h9Zh8G/1-Ghw-YUq-LRj-D6-LJTQHff06-Q.png" />
 </p>
 
-<div align="center">
-  <img src="https://i.ibb.co/XZGXdPFy/240-F-318606217-Hk8jo2-MVo-I33-SQOk-Yrf-OF929-J7-Jg-IP0-P.jpg" />
-</div>
 
 ## 🌐 Connect with Me
 
