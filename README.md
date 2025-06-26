@@ -1,6 +1,6 @@
 <!-- ✨ RN Robin Vai - GitHub Profile README ✨ -->
 
-<h1 align="center">Hi 👋, I'm ✦ 𝑅𝒩 𝑅𝑜𝒷𝒾𝓃 𝒱𝒶𝒾 ✦</h1>
+<h1 align="center">Hi 👋, I'm ✦𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 ✦</h1>
 <h3 align="center">✦ A Passionate Full-Stack Developer from Bangladesh ✦</h3>
 
 <p align="center"> 
@@ -78,7 +78,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm RN Robin</h1>
+<h1 align="center">Hi 👋, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 </h1>
 
 <p align="center">
   🔭 I’m currently working on full-stack projects <br/>
