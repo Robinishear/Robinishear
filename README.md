@@ -294,9 +294,6 @@ bash
 
 ## 📄 About Me
 
-<p align="center">
-  <img src="https://i.ibb.co/M57pdtYg/173346668-bcbea83b-384f-472c-994d-33286fbacbc6.png" />
-</p>
 
 - 🔭 Currently working on: **Recipe Book App**, **Lawyer Finder SPA**, and **Historical Artifact Tracker**
 - 🌱 Exploring: **JWT Auth**, **Clean Backend Structure**, **MongoDB Aggregation**
