@@ -153,3 +153,196 @@
 
 
 
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm ✦ 𝑅𝒩 𝑅𝑜𝒷𝒾𝓃 𝐼𝒮 𝐻𝑒𝒶𝓇</h1>
+<h3 align="center">🚀 Developer | 💡 Problem Solver | 🌍 Dreamer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Self-taught+Web+Developer;Always+Learning+and+Improving;Let's+Build+Something+Great+Together!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌟 About Me
+- 🔭 I’m currently working on: `React Projects`, `MERN Stack`, `Google Maps`, `Recipe App`
+- 🌱 I’m currently learning: `Node.js`, `MongoDB`, `Full-Stack Web Dev`
+- 💬 Ask me about: `JavaScript`, `React`, `Tailwind`, `API Integration`
+- ⚡ Fun fact: I solve problems even when I sleep 😴
+
+---
+
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robinishear&show_icons=true&theme=tokyonight" alt="Robin's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinishear&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinishear&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://facebook.com/robinishear" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:robinishear@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/robinishear" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+**Profile Last Updated:** June 2025 ✨  
+**Feel free to ⭐️ my repositories if you find them useful.**
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight" width="47%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RN_RObiN_vAI&theme=tokyonight" width="47%">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech | Live |
+|--------|------|------|
+| 🍲 Recipe Book App | React, Node.js, MongoDB, JWT | [Live Demo](https://recipebook.web.app) |
+| ⚖️ Lawyer Finder | React Router SPA | [Live Demo](https://lawyerapp.web.app) |
+| 🗿 Historical Artifacts Tracker | MERN Stack, Firebase Auth | [Live Demo](https://artifacts.web.app) |
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:rnrobin@email.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?logo=react&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Code, Create, Conquer!" 💻🚀
+</p>
+
+
+<!-- Minimalist Style Header -->
+<h1 align="center">🌟 RN Robin</h1>
+<p align="center">🚀 Full-Stack Developer | 🇧🇩 Bangladesh | 💡 Dreamer & Doer</p>
+
+<p align="center">
+  <a href="https://yourportfolio.com">Portfolio</a> • 
+  <a href="mailto:rnrobin@email.com">Email</a> • 
+  <a href="https://linkedin.com/in/yourname">LinkedIn</a> • 
+  <a href="https://github.com/RN_RObiN_vAI">GitHub</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning: Clean Architecture, MongoDB Aggregation, Testing
+- 🎯 Goal: Build scalable full-stack apps & become a respected open-source contributor
+- 🧠 Strengths: Focus, Self-discipline, and Fast learning
+- ⚡ Fun Fact: I can code for 8 hours straight with tea & chill lofi music 🎧
+
+---
+
+## 🛠️ Tech Stack
+
+bash
+💻 Languages:        JavaScript, HTML, CSS
+⚙️ Frameworks:       React, Node.js, Express.js
+🛢️ Databases:        MongoDB, Firebase
+🔧 Tools:            VS Code, Git, GitHub, Vercel
+🎨 Styling:          Tailwind CSS, DaisyUI
+
+
+<h1 align="center">👋 Hey there, I'm RN Robin</h1>
+<p align="center">💻 MERN Stack Developer | 🇷🇫 Bangladesh | 🌱 Always learning</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Web+Developer;MERN+Stack+Specialist;React+|+Node+|+MongoDB;Always+Building+Something+New&center=true&width=500&height=45" />
+</p>
+
+---
+
+## 📄 About Me
+
+- 🔭 Currently working on: **Recipe Book App**, **Lawyer Finder SPA**, and **Historical Artifact Tracker**
+- 🌱 Exploring: **JWT Auth**, **Clean Backend Structure**, **MongoDB Aggregation**
+- 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Tailwind`
+- 🌟 Goal: Be a respected full-stack developer & tech entrepreneur
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,github,vscode" />
+</div>
+
+---
+
+## 🚀 Projects Showcase
+
+| Project Name | Description | Tech Stack | Live |
+|--------------|-------------|------------|------|
+| 🍲 Recipe Book App | Full-stack recipe manager with JWT, filtering | React, Node.js, MongoDB | [🔗 Demo](https://recipebook.web.app) |
+| ⚖️ Lawyer Finder | SPA with React Router for finding lawyers | React, Router DOM | [🔗 Demo](https://lawyerfinder.web.app) |
+| 🗿 Artifacts Tracker | CRUD for tracking historical artifacts with auth | MERN Stack | [🔗 Demo](https://artifactstracker.web.app) |
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=midnight-purple&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RN_RObiN_vAI&theme=midnight-purple" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=midnight-purple" />
+</p>
+
+---
+
+## 📢 Connect with Me
+
+<p align="center">
+  <a href="mailto:mdrobinahmed57898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  💡 “Stay focused. Stay consistent. You are building your empire.” 🏰
+</p>
+
+
+
+
+
+
