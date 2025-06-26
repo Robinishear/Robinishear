@@ -1,7 +1,7 @@
 <!-- ✨ RN Robin Vai - GitHub Profile README ✨ -->**
 
 <p align="center"> 
-  <img src="https://i.ibb.co/4ZBWm4TB/banner.jpg" alt="Typing SVG" />
+  <img src="https://i.ibb.co/jX4ntv0/240-F-789334120-4s5-Ne-IQWTLwy4rd-CJEBn2z-GLc-IEId5-L5.jpg" />
 </p>
 
 
