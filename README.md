@@ -164,7 +164,7 @@
 
 ---
 <p align="center">
-  <img src="https://i.ibb.co/HDB0TjV4/images-28.jpg" />
+  <img src="https://i.ibb.co/5hXRYnHh/202856894-dad0e5be-eb2a-4f53-af62-1412040b2709.png" />
 </p>
 ### 🌟 About Me
 - 🔭 I’m currently working on: `React Projects`, `MERN Stack`, `Google Maps`, `Recipe App`
