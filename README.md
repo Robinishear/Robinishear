@@ -244,8 +244,8 @@
 
 
 <!-- Minimalist Style Header -->
-<h1 align="center">🌟𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
-<p align="center">🚀 Full-Stack Developer | 🇧🇩 Bangladesh | 💡 Dreamer & Doer</p>
+<h1 align="center"></h1>
+<p align="center">🚀 Full-Stack Developer | 🇧🇩 Bangladesh | 💡 Dreamer & Doer</p> 
 
 <p align="center">
   <a href="https://yourportfolio.com">Portfolio</a> • 
