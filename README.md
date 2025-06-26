@@ -1,4 +1,7 @@
-<!-- ✨ RN Robin Vai - GitHub Profile README ✨ -->
+<!-- ✨ RN Robin Vai - GitHub Profile README ✨ -->**
+<p align="center"> 
+  <img src="https://i.ibb.co/4ZBWm4TB/banner.jpg" alt="Typing SVG" />
+</p>
 
 <h1 align="center">Hi 👋, I'm ✦𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 ✦</h1>
 <h3 align="center">✦ A Passionate Full-Stack Developer from Bangladesh ✦</h3>
