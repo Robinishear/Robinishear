@@ -39,7 +39,7 @@
 ```
 
 <div align="center">
-  <img src="https://i.ibb.co/ccpJQSgp/240-F-1374652734-a3vx-Tsx-HQq-Zqx9wm-Lbl-Dd-Z2-To25fuy-K7.jpg" />
+  <img src="https://i.ibb.co/Mk4n2hhv/360-F-531710260-Byieq-Ne7-Ut6-QBHg-IR7xgdsx-H7g-ICr-Hr1.jpg" />
 </div>
 
 ---
