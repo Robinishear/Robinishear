@@ -208,7 +208,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight" width="47%">
 </p>
 
