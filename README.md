@@ -161,7 +161,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm ✦ 𝑅𝒩 𝑅𝑜𝒷𝒾𝓃 𝐼𝒮 𝐻𝑒𝒶𝓇</h1>
+<h1 align="center">Hi 👋, I'm ✦ 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
 <h3 align="center">🚀 Developer | 💡 Problem Solver | 🌍 Dreamer</h3>
 
 <p align="center">
@@ -247,7 +247,7 @@
 
 
 <!-- Minimalist Style Header -->
-<h1 align="center">🌟 RN Robin</h1>
+<h1 align="center">🌟𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
 <p align="center">🚀 Full-Stack Developer | 🇧🇩 Bangladesh | 💡 Dreamer & Doer</p>
 
 <p align="center">
