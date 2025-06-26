@@ -7,7 +7,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm ✦𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 ✦</h1>
+
 <h3 align="center">✦ A Passionate Full-Stack Developer from Bangladesh ✦</h3>
 
 <p align="center"> 
@@ -81,7 +81,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 </h1>
+
 
 <p align="center">
   🔭 I’m currently working on full-stack projects <br/>
@@ -155,7 +155,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm ✦ 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
+
 <h3 align="center">🚀 Developer | 💡 Problem Solver | 🌍 Dreamer</h3>
 
 <p align="center">
@@ -279,7 +279,7 @@ bash
 🎨 Styling:          Tailwind CSS, DaisyUI
 
 
-<h1 align="center">👋 Hey there, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅 </h1>
+
 <p align="center">💻 MERN Stack Developer | 🇷🇫 Bangladesh | 🌱 Always learning</p>
 
 <p align="center">
