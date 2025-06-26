@@ -125,7 +125,7 @@
 <h3 align="center">🚀 A Passionate Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Developer;MERN+Stack+Enthusiast;Future+Millionaire💸&center=true&width=500&height=45">
+  <img src="https://i.ibb.co/DP2bqP88/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f69-1.png">
 </p>
 
 ---
