@@ -481,26 +481,22 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 </div>
 
 
-
-<!-- Social Links with Hover Effects -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a9b.gif" width="32"> Let's Connect!
+<!-- GitHub Stats with modern cards -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
 <div align="center">
 
-<!-- Social Media Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/mdrijoanmaruf/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/mdrijoanmaruf)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/md.rijoanmaruf)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/rijoanmaruf/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/rijianmaruf)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/+8801813606468)
+<!-- Main stats row -->
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=mdrijoanmaruf&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrijoanmaruf&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
-<!-- Contact Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com/?user=mdrijoanmaruf&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrijoanmaruf&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 
 </div>
-
-
 
 
 
