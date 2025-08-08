@@ -364,6 +364,50 @@ bash
 - 🌟 Goal: Be a respected full-stack developer & tech entrepreneur
 
 ---
+<- use ->
+
+
+<!-- Live Metrics -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32"> Live Metrics
+
+<div align="center">
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=mdrijoanmaruf&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/mdrijoanmaruf?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/mdrijoanmaruf?label=Total%20Stars&style=for-the-badge&color=yellow" />
+
+<!-- Recent Activity -->
+### 📊 **Recent Activity**
+
+
+
+<!-- Coding Stats -->
+### 💻 **This Week's Coding Time**
+
+```text
+JavaScript   ████████████░░░░░░░░░   48.2% 
+React        ████████░░░░░░░░░░░░░   32.1%
+TypeScript   ████░░░░░░░░░░░░░░░░░   16.5%
+CSS          ██░░░░░░░░░░░░░░░░░░░    8.7%
+HTML         █░░░░░░░░░░░░░░░░░░░░    4.3%
+```
+
+<!-- Cool Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+
+</div>
+
+
+
+<!-- Footer -->
+<div align="center">
+
+<!-- Animated Footer with Thank You -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
