@@ -427,64 +427,7 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=midnight-purple&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RN_RObiN_vAI&theme=midnight-purple" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=midnight-purple" />
-</p>
-
----
-
-## 📢 Connect with Me 
-
-<p align="center">
-  <a href="mailto:mdrobinahmed57898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  💡 “Stay focused. Stay consistent. You are building your empire.” 🏰
-</p>
-
-
-
-<!-- Trophies Section -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
-
-
-<!-- Detailed Analytics -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdrijoanmaruf&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdrijoanmaruf&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdrijoanmaruf&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdrijoanmaruf&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdrijoanmaruf&theme=github_dark&utcOffset=6" />
-
-</div>
-
-
-<!-- GitHub Stats with modern cards -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
-
-<div align="center">
 
 <!-- Main stats row -->
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=mdrijoanmaruf&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
