@@ -86,9 +86,6 @@ currently_learning:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=midnight-purple" />
 </p>
-<p align="center"> 
-  <img src="https://i.ibb.co/6h9Zh8G/1-Ghw-YUq-LRj-D6-LJTQHff06-Q.png" />
-</p>
 
 
 ## 🌐 Connect with Me
