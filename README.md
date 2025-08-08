@@ -212,9 +212,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight" width="47%">
 </p>
 ---
-<p align="left">
-  <img src="https://i.ibb.co/gZym1Wrp/db17197c-95a0-4fce-bcf6-7a53adc2c463.png">
-</p>
+
 
 
 
