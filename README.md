@@ -1,20 +1,49 @@
-<!-- ✨ RN Robin Vai - GitHub Profile README ✨ -->
+<div align="center">
 
-<p align="center"> 
-  <img src="https://i.ibb.co/7tCbNdg3/240-F-377082215-Xd-CMMLYICc9u-Dt-X4b-FLP7k0bf-Rf5r-APF.jpg" /> 
-</p>
+<!-- Header with animated background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Md%20Rijoan%20Maruf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<!-- Animated typing with multiple lines -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+</div>
+
+<!-- About Section with Cards -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
+
+```yaml
+name: Md Rijoan Maruf
+located_in: Dhaka, Bangladesh
+current_work: Full-Stack Developer
+education: 
+  - "Computer Science & Engineering at AIUB"
+
+fields_of_interests:
+  - "Web Development"
+  - "Full Stack Development"
+  - "MERN Stack Developmnet"
+  - "Fornt-End Development"
+  - "Back-end Developmnet"
+  - "Open Source"
+  
+currently_learning: 
+  - "Next.js 15"
+
+2025_goals:
+  - "Contribute to Open Source Projects"
+  - "Build Amazing Full-Stack Applications"
+  - "Learn Cloud Technologies"
+  - "Share Knowledge with Community"
+```
+
+<br clear="right"/>
 
 
-
-
-<h1 align="center">👋 Hello World, I'm 𝑹𝒐𝒃𝒊𝒏 𝑨𝒉𝒎𝒆𝒅</h1>
-<h3 align="center">✦ A Passionate Full-Stack Developer from Bangladesh ✦</h3>
-
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFEA&center=true&width=435&lines=Self-taught+Developer;MERN+Stack+Enthusiast;Future+Millionaire💸" alt="Typing SVG" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
