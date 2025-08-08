@@ -18,7 +18,7 @@
 
 ```yaml
 name: Md Robin Ahmed
-located_in: Dhaka, Bangladesh
+located_in: Mymensingh, Bangladesh
 current_work: Full-Stack Developer
 education: 
   - "Computer Science & Engineering at AIUB"
