@@ -74,7 +74,7 @@ currently_learning:
 |  Artifacts | Full-stack recipe  with JWT auth, , filter | Next.js, express, MongoDB | [🔗 Demo](https://profound-sunshine-656a70.netlify.app/) |
 | Robin’s Business Portfolio| nexacodestudioflux.com | All-Wep-site | [🔗 Demo](nexacodestudioflux.com) |
 |MyApp | Full-stack Client Project | (Next.js, TypeScript, SQL, JWT Auth) | [🔗 Demo](https://shiny-parfait-f0cbc2.netlify.app/) |
-|Greeenhealth | Full-stack Client Project | (React.js , MongoDB , Mongoose , JWT Authentication , SSLCommerz) [🔗 Demo](https://www.greeenhealth.com/) |
+|Greeenhealth | Full-stack Client Project | (React.js , MongoDB , Mongoose , JWT Authentication , SSLCommerz) | [🔗 Demo](https://www.greeenhealth.com/) |
 ---
 
 ## 📈 GitHub Stats & Activity
