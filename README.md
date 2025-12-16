@@ -70,9 +70,9 @@ currently_learning:
 
 | Project Name | Description | Tech Stack | Live |
 |--------------|-------------|------------|------|
-| 🍲 Online Trading Center | Full-stack recipe  with JWT auth, , filter | React, express, MongoDB | [🔗 Demo](https://bteibd.com/) |
-| ⚖️ Lawyer Finder | SPA to find lawyer profiles using React Router | React, JSON, Router DOM[🔗Demo(https://profound-sunshine-656a70.netlify.app/) 
-| Robin’s Business Portfolio | All-Wep-site | [🔗 Demo](nexacodestudioflux.com) |
+|  Online Trading Center | Full-stack recipe  with JWT auth, , filter | React, express, MongoDB | [🔗 Demo](https://bteibd.com/) |
+|  Artifacts | Full-stack recipe  with JWT auth, , filter | Next.js, express, MongoDB | [🔗 Demo](https://profound-sunshine-656a70.netlify.app/) |
+| Robin’s Business Portfolio| nexacodestudioflux.com | All-Wep-site | [🔗 Demo](nexacodestudioflux.com) |
 
 ---
 
