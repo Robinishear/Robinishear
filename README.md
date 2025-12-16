@@ -70,11 +70,11 @@ currently_learning:
 
 | Project Name | Description | Tech Stack | Live |
 |--------------|-------------|------------|------|
-|  Online Trading Center  | Full-stack  Client Project, recipe  with JWT auth, , filter | React, express, MongoDB | [🔗Live Demo](https://bteibd.com/) |
-|  Artifacts | Full-stack recipe  with JWT auth, , filter | Next.js, express, MongoDB | [🔗Live Demo](https://profound-sunshine-656a70.netlify.app/) |
-| Robin’s Business Portfolio| nexacodestudioflux.com | All-Wep-site | [🔗Live Demo](nexacodestudioflux.com) |
-|MyApp | Full-stack Client Project | (Next.js, TypeScript, SQL, JWT Auth) | [🔗Live Demo](https://shiny-parfait-f0cbc2.netlify.app/) |
-|Greeenhealth | Full-stack Client Project | (React.js , MongoDB , Mongoose , JWT Authentication , SSLCommerz) | [🔗Live Demo](https://www.greeenhealth.com/) |
+|  Online Trading Center  | Full-stack  Client Project, recipe  with JWT auth, , filter | React, express, MongoDB | [🔗Live ](https://bteibd.com/) |
+|  Artifacts | Full-stack recipe  with JWT auth, , filter | Next.js, express, MongoDB | [🔗Live ](https://profound-sunshine-656a70.netlify.app/) |
+| Robin’s Business Portfolio| nexacodestudioflux.com | All-Wep-site | [🔗Live ](nexacodestudioflux.com) |
+|MyApp | Full-stack Client Project | (Next.js, TypeScript, SQL, JWT Auth) | [🔗Live ](https://shiny-parfait-f0cbc2.netlify.app/) |
+|Greeenhealth | Full-stack Client Project | (React.js , MongoDB , Mongoose , JWT Authentication , SSLCommerz) | [🔗Live ](https://www.greeenhealth.com/) |
 ---
 
 ## 📈 GitHub Stats & Activity
