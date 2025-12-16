@@ -435,5 +435,14 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 
 </div>
 
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/m-anwarulkarim" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+  <a href="https://www.linkedin.com/in/anwarul-karim-05235438b/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="mailto:anwarulkarim13@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
+</p>
+
+
 
 
