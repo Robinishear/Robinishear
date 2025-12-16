@@ -279,15 +279,6 @@ interface Developer {
 
 
 
-## 🚀 Featured Projects
-
-| Project | Tech | Live |
-|--------|------|------|
-| 🍲 Recipe Book App | React, Node.js, MongoDB, JWT | [Live Demo](https://recipebook.web.app) |
-| ⚖️ Lawyer Finder | React Router SPA | [Live Demo](https://lawyerapp.web.app) |
-| 🗿 Historical Artifacts Tracker | MERN Stack, Firebase Auth | [Live Demo](https://artifacts.web.app) |
-
----
 
 ## 📫 Connect with Me
 
