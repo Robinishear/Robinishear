@@ -70,9 +70,9 @@ currently_learning:
 
 | Project Name | Description | Tech Stack | Live |
 |--------------|-------------|------------|------|
-| 🍲 Recipe Book App | Full-stack recipe manager with JWT auth, like, filter | React, Node.js, MongoDB | [🔗 Demo](https://recipebook.web.app) |
-| ⚖️ Lawyer Finder | SPA to find lawyer profiles using React Router | React, JSON, Router DOM | [🔗 Demo](https://lawyerfinder.web.app) |
-| 🗿 Artifacts Tracker | Track historical artifacts with login & CRUD | MERN, Firebase | [🔗 Demo](https://artifactstracker.web.app) |
+| 🍲 Online Trading Center | Full-stack recipe  with JWT auth, , filter | React, express, MongoDB | [🔗 Demo](https://bteibd.com/) |
+| ⚖️ Lawyer Finder | SPA to find lawyer profiles using React Router | React, JSON, Router DOM[🔗Demo(https://profound-sunshine-656a70.netlify.app/) 
+| Robin’s Business Portfolio | All-Wep-site | [🔗 Demo](nexacodestudioflux.com) |
 
 ---
 
