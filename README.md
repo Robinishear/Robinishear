@@ -68,81 +68,62 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=150&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=35&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=150&section=header&text=Welcome%20to%20My%20Digital%20Garden&fontSize=35&animation=fadeIn" width="100%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=400&size=30&duration=3000&pause=1000&color=1A5B77&center=true&vCenter=true&width=750&lines=I+am+MR.+Robin+Ahmed,+a+professional+full-stack+developer.;I+deliver+high-quality,+clean,+and+scalable+projects.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work,+I+help+your+business+grow.+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=400&size=32&duration=3000&pause=1000&color=1A5B77&center=true&vCenter=true&width=750&lines=I+am+Robin+Ahmed,+a+professional+full-stack+developer.;I+deliver+high-quality,+clean,+and+scalable+projects.;Ensuring+the+best+service+and+reliability+for+clients.;Maintaining+quality+and+punctuality+in+every+task.;Helping+your+business+grow+through+modern+tech.+🚀" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ---
 
-### 👨‍💻 About Me
-আমি একজন প্রফেশনাল **Full-Stack Web Developer**। ক্লিন কোড, স্কেলেবিলিটি এবং ক্লায়েন্টের সন্তুষ্টিই আমার কাজের মূল ভিত্তি। আমি আধুনিক ওয়েব টেকনোলজি ব্যবহার করে বিজনেসের প্রবৃদ্ধি নিশ্চিত করি।
-
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Languages**
-<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🖥️ Frontend & Styling
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer)](https://skillicons.dev)
 
-**⚙️ Frameworks & Libraries**
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
 
-**🛢️ Databases**
-<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚙️ Backend & Databases
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,prisma,postgres)](https://skillicons.dev)
 
-**🎨 Styling**
 <br/>
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-**🔧 Tools & Platforms**
-<br/>
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🔧 Tools & Deployment
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=10" alt="Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-### 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrobinahmed57898@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:mdrobinahmed57898@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=100&section=footer" width="100%" />
 
 </div>
-
-
 
 
 
