@@ -72,7 +72,7 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 ## 🛠️ Tech Stack
-
+<div align="center">
 ### 🖥️ Frontend & Styling
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer)](https://skillicons.dev)
 
