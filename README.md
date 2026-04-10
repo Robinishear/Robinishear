@@ -42,41 +42,108 @@ currently_learning:
 <br clear="right"/>
 
 
+---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Robin%20Ahmed&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Email](https://img.shields.io/badge/Gmail-mdrobinahmed57898%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrobinahmed57898@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on: **Recipe Book App**, **Lawyer Finder SPA**
-- 🌱 Learning: **MongoDB**, **JWT Auth**, **Clean Architecture**, **CI/CD**
-- 👯 Looking to collaborate on: **MERN stack apps**
-- 💬 Ask me about: **JavaScript**, **React**, **Node.js**, **Express**
-- 📫 Reach me: **mdrobinahmed57898@gmail.com**
-- ⚡ Fun Fact: **I started coding with a broken keyboard!**
+> *"I started coding with a broken keyboard — and never stopped since."* ⚡
+
+- 🔭 **Currently working on:** Recipe Book App · Lawyer Finder SPA
+- 🌱 **Learning:** MongoDB · JWT Auth · Clean Architecture · CI/CD
+- 👯 **Open to collaborate on:** MERN Stack Applications
+- 💬 **Ask me about:** JavaScript · React · Node.js · Express
 
 ---
 
 ## 🛠️ Tech Stack
 
-```bash
-💻 Languages:        JavaScript, HTML, CSS
-⚙️ Frameworks:       React, Node.js, Express.js
-🛢️ Databases:        MongoDB, Firebase
-🔧 Tools:            VS Code, Git, GitHub, Vercel
-🎨 Styling:          Tailwind CSS, DaisyUI
-```
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Styling**
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="40%" />
+
+</div>
 
 ---
 
 ## 🚀 Projects Showcase
 
-| Project Name | Description | Tech Stack | Live |
-|--------------|-------------|------------|------|
-|  Online Trading Center  | Full-stack  Client Project, recipe  with JWT auth, , filter | React, express, MongoDB | [🔗Live ](https://bteibd.com/) |
-|  Artifacts | Full-stack recipe  with JWT auth, , filter | Next.js, express, MongoDB | [🔗Live ](https://profound-sunshine-656a70.netlify.app/) |
-| Robin’s Business Portfolio| nexacodestudioflux.com | All-Wep-site | [🔗Live ](nexacodestudioflux.com) |
-|MyApp | Full-stack Client Project | (Next.js, TypeScript, SQL, JWT Auth) | [🔗Live ](https://shiny-parfait-f0cbc2.netlify.app/) |
-|Greeenhealth | Full-stack Client Project | (React.js , MongoDB , Mongoose , JWT Authentication , SSLCommerz) | [🔗Live ](https://www.greeenhealth.com/) |
+| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
+|:------------|:---------------|:--------------|:--------|
+| **Online Trading Center** | Full-stack client project with JWT auth & filter | React · Express · MongoDB | [🌐 Live](https://bteibd.com/) |
+| **Artifacts** | Full-stack app with JWT auth & filter | Next.js · Express · MongoDB | [🌐 Live](https://profound-sunshine-656a70.netlify.app/) |
+| **Robin's Business Portfolio** | Business portfolio website | HTML · CSS · JS | [🌐 Live](https://nexacodestudioflux.com) |
+| **MyApp** | Full-stack client project | Next.js · TypeScript · SQL · JWT Auth | [🌐 Live](https://shiny-parfait-f0cbc2.netlify.app/) |
+| **GreeenHealth** | Full-stack health platform with payment gateway | React · MongoDB · Mongoose · JWT · SSLCommerz | [🌐 Live](https://www.greeenhealth.com/) |
+
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
+---
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
