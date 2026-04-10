@@ -6,7 +6,7 @@
 <!-- Animated Typing SVG -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=25&duration=2500&pause=1000&color=1A5B77&center=true&vCenter=true&width=451&lines=I+am+MR%2C+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+always+deliver+high-quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow." alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=23&duration=2500&pause=1000&color=1A5B77&center=true&vCenter=true&width=451&lines=I+am+MR%2C+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+always+deliver+high-quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow.)](https://git.io/typing-svg)
 
 
 
