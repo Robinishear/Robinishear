@@ -70,10 +70,6 @@ fun_fact: "I started coding with a broken keyboard!"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=150&section=header&text=Welcome%20to%20My%20Digital%20Garden&fontSize=35&animation=fadeIn" width="100%" />
-
-<br/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=400&size=32&duration=3000&pause=1000&color=1A5B77&center=true&vCenter=true&width=750&lines=I+am+Robin+Ahmed,+a+professional+full-stack+developer.;I+deliver+high-quality,+clean,+and+scalable+projects.;Ensuring+the+best+service+and+reliability+for+clients.;Maintaining+quality+and+punctuality+in+every+task.;Helping+your+business+grow+through+modern+tech.+🚀" alt="Typing SVG" />
 </a>
