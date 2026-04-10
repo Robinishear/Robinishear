@@ -70,25 +70,45 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 
-
 ## 🛠️ Tech Stack
+
 <div align="center">
+
 ### 🖥️ Frontend & Styling
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer)](https://skillicons.dev)
 
 <br/>
 
 ### ⚙️ Backend & Frameworks
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py,)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py,django)](https://skillicons.dev)
 
 <br/>
-### 🛢️ Databases & Cloud
-[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mariadb,supabase,firebase,mongodb,prisma)](https://skillicons.dev)
+
+### 🔐 Authentication & Security
+[![Auth Skills](https://skillicons.dev/icons?i=firebase,supabase,nextjs)](https://skillicons.dev)
 <br/>
+![Better-Auth](https://img.shields.io/badge/Better--Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![Auth.js](https://img.shields.io/badge/Auth.js-FF4154?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+<br/>
+
+### 🛢️ Databases & Cloud
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,prisma)](https://skillicons.dev)
+<br/>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+<br/>
+
 ### 🔧 Tools & Deployment
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
+
 </div>
+
 ---
+
 
 ### 📊 GitHub Activity
 <p align="center">
