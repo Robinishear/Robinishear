@@ -84,8 +84,6 @@ fun_fact: "I started coding with a broken keyboard!"
 <br/>
 ### 🛢️ Databases & Cloud
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mariadb,supabase,firebase,mongodb,prisma)](https://skillicons.dev)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 <br/>
 ### 🔧 Tools & Deployment
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
