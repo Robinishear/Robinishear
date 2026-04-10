@@ -16,46 +16,6 @@
 
 <br/>
 
----
-
-### 👨‍💻 About Me
-**Full-Stack Developer** হিসেবে আমি স্কেলেবল এবং ইউজার-ফ্রেন্ডলি ওয়েব অ্যাপ্লিকেশন তৈরি করতে পছন্দ করি। 
-আমার মূল লক্ষ্য হলো ক্লিন কোড এবং লেটেস্ট টেকনোলজি ব্যবহার করে বিজনেসের প্রবৃদ্ধি নিশ্চিত করা।
-
----
-
-### 🛠️ Tech Stack & Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,tailwind,framer,git,vercel,prisma,py" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
-### 📫 Connect with Me
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=100&section=footer" width="100%" />
-
-</div>
 
 
 <br/>
