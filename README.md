@@ -68,17 +68,9 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=400&size=32&duration=3000&pause=1000&color=1A5B77&center=true&vCenter=true&width=750&lines=I+am+Robin+Ahmed,+a+professional+full-stack+developer.;I+deliver+high-quality,+clean,+and+scalable+projects.;Ensuring+the+best+service+and+reliability+for+clients.;Maintaining+quality+and+punctuality+in+every+task.;Helping+your+business+grow+through+modern+tech.+🚀" alt="Typing SVG" />
-</a>
-
-<br/>
-
 ---
 
----
+
 
 ## 🛠️ Tech Stack
 
