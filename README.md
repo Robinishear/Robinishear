@@ -1,75 +1,62 @@
 <div align="center">
-  <!-- Header with animated background -->  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mr%20Robin%20Ahmed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-  <!-- Animated typing with multiple lines -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Robin%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Specialist&descSize=18&descAlignY=56&descColor=00D9FF" />
 
-  <!-- Animated divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+<!-- Animated Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=🚀+Building+Full-Stack+Web+Applications;💻+MERN+Stack+%7C+Next.js+%7C+TypeScript;🌏+Based+in+Mymensingh%2C+Bangladesh" alt="Typing SVG" />
+
+<br/>
+
 </div>
 
+---
 
-<!-- About Section with Cards -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
-<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 
 ```yaml
-name: Md Robin Ahmed
-located_in: Mymensingh, Bangladesh
-current_work: Full-Stack Developer
-education: 
-  - "Computer Science & Engineering at AIUB"
+name:        Md Robin Ahmed
+location:    Mymensingh, Bangladesh
+role:        Full-Stack Developer
+education:   Computer Science & Engineering
 
-fields_of_interests:
-  - "Web Development"
-  - "Full Stack Development"
-  - "Fornt-End Development"
-  - "Back-end Developmnet"
-  - "Open Source"
-  
-currently_learning: 
-  - "Next.js 15"
+interests:
+  - Web Development (Full Stack)
+  - MERN Stack Applications
+  - Clean Architecture & CI/CD
+  - Open Source Contribution
+
+currently_learning:
+  - Next.js 15
+  - MongoDB Advanced
+  - JWT Authentication
+  - Cloud Technologies
 
 2025_goals:
-  - "Contribute to Open Source Projects"
-  - "Build Amazing Full-Stack Applications"
-  - "Learn Cloud Technologies"
-  - "Share Knowledge with Community"
+  - Contribute to Open Source Projects
+  - Build Amazing Full-Stack Apps
+  - Learn Cloud & DevOps
+  - Share Knowledge with Community
+
+fun_fact: "I started coding with a broken keyboard!"
 ```
 
 <br clear="right"/>
 
-
 ---
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Robin%20Ahmed&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
-
-</div>
-
----
+## 🌐 Connect With Me
 
 <div align="center">
 
-### 🌐 Connect With Me
-
-[![Email](https://img.shields.io/badge/Gmail-mdrobinahmed57898%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrobinahmed57898@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-mdrobinahmed57898%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrobinahmed57898@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RN__RObiN__vAI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RN_RObiN_vAI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://nexacodestudioflux.com)
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-> *"I started coding with a broken keyboard — and never stopped since."* ⚡
-
-- 🔭 **Currently working on:** Recipe Book App · Lawyer Finder SPA
-- 🌱 **Learning:** MongoDB · JWT Auth · Clean Architecture · CI/CD
-- 👯 **Open to collaborate on:** MERN Stack Applications
-- 💬 **Ask me about:** JavaScript · React · Node.js · Express
 
 ---
 
@@ -77,35 +64,38 @@ currently_learning:
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**⚙️ Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases**
+**🛢️ Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Styling**
+**🎨 Styling**
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 
-**Tools & Platforms**
+**🔧 Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
@@ -115,12 +105,17 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RN_RObiN_vAI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="42%" />
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RN_RObiN_vAI&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -128,62 +123,33 @@ currently_learning:
 
 ## 🚀 Projects Showcase
 
+<div align="center">
+
 | 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
-|:------------|:---------------|:--------------|:--------|
-| **Online Trading Center** | Full-stack client project with JWT auth & filter | React · Express · MongoDB | [🌐 Live](https://bteibd.com/) |
-| **Artifacts** | Full-stack app with JWT auth & filter | Next.js · Express · MongoDB | [🌐 Live](https://profound-sunshine-656a70.netlify.app/) |
-| **Robin's Business Portfolio** | Business portfolio website | HTML · CSS · JS | [🌐 Live](https://nexacodestudioflux.com) |
-| **MyApp** | Full-stack client project | Next.js · TypeScript · SQL · JWT Auth | [🌐 Live](https://shiny-parfait-f0cbc2.netlify.app/) |
-| **GreeenHealth** | Full-stack health platform with payment gateway | React · MongoDB · Mongoose · JWT · SSLCommerz | [🌐 Live](https://www.greeenhealth.com/) |
+|:------------|:---------------|:--------------|:-------:|
+| **Online Trading Center** | Full-stack client project with JWT auth & advanced filter | React · Express · MongoDB | [🌐 Live](https://bteibd.com/) |
+| **Artifacts** | Full-stack app with JWT auth & filter functionality | Next.js · Express · MongoDB | [🌐 Live](https://profound-sunshine-656a70.netlify.app/) |
+| **Robin's Business Portfolio** | Modern business portfolio website | HTML · CSS · JS | [🌐 Live](https://nexacodestudioflux.com) |
+| **MyApp** | Full-stack client project with TypeScript & SQL | Next.js · TypeScript · SQL · JWT | [🌐 Live](https://shiny-parfait-f0cbc2.netlify.app/) |
+| **GreeenHealth** | Health platform with SSLCommerz payment gateway | React · MongoDB · Mongoose · JWT · SSLCommerz | [🌐 Live](https://www.greeenhealth.com/) |
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+### 💡 *"Stay focused. Stay consistent. You are building your empire."* 🏰
+
+<br/>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
----
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=midnight-purple&count_private=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RN_RObiN_vAI&theme=midnight-purple" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=midnight-purple" />
-</p>
-
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:mdrobinahmed57898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">💡 “Stay focused. Stay consistent. You are building your empire.” 🏰</p>
-
-<!-- End of README -->
-
-
-
-
-
-
-<p align="center">
-  🔭 I’m currently working on full-stack projects <br/>
-  🌱 I’m learning MongoDB, JWT, and clean architecture <br/>
-  👯 I’m looking to collaborate on MERN stack apps <br/>
-  💬 Ask me about JavaScript, React, and Node <br/>
-  📫 How to reach me: rnrobin@email.com <br/>
-</p>
-
----
+------------------------------------------------------------------------------
 
 ## 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
