@@ -205,23 +205,11 @@ HTML         █░░░░░░░░░░░░░░░░░░░░    
 </div>
 
 
-## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,github,vscode" />
-</div>
 
----
 
-## 🚀 Projects Showcase
 
-| Project Name | Description | Tech Stack | Live |
-|--------------|-------------|------------|------|
-| 🍲 Recipe Book App | Full-stack recipe manager with JWT, filtering | React, Node.js, MongoDB | [🔗 Demo](https://recipebook.web.app) |
-| ⚖️ Lawyer Finder | SPA with React Router for finding lawyers | React, Router DOM | [🔗 Demo](https://lawyerfinder.web.app) |
-| 🗿 Artifacts Tracker | CRUD for tracking historical artifacts with auth | MERN Stack | [🔗 Demo](https://artifactstracker.web.app) |
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
