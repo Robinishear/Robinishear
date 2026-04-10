@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MR%20Robin%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Specialist&descSize=18&descAlignY=56&descColor=00D9FF" />
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10001&color=201E67&multiline=true&width=807&height=80&lines=I'm+Mr%2CRobin+Ahmed%2Ca+professional+full-stack+developer;+focused+on+delivering+clean%2C+scalable%2C+;and+high-quality+solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=I+am+MR%2C+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+always+deliver+high-quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow.)](https://git.io/typing-svg)
 
 <br/>
 
