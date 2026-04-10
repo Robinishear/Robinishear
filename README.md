@@ -74,7 +74,7 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 ### 🖥️ Frontend & Styling
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,figma)](https://skillicons.dev)
 
 <br/>
 
