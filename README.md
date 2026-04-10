@@ -79,7 +79,7 @@ fun_fact: "I started coding with a broken keyboard!"
 <br/>
 ## 🛠️ My Tech Stack
 
-**⚙️ Backend Development**
+**⚙️ Backend & Frameworks**
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
@@ -87,7 +87,7 @@ fun_fact: "I started coding with a broken keyboard!"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**🛢️ Databases & Cloud Services**
+**🛢️ Databases & Cloud**
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
