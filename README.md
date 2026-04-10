@@ -51,10 +51,10 @@ fun_fact: "I started coding with a broken keyboard!"
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-mdrobinahmed57898%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrobinahmed57898@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-mdrobinahmed57898@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdrobinahmed57898@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RN__RObiN__vAI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RN_RObiN_vAI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://nexacodestudioflux.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-robin1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://mr-robin-ahmed.vercel.app/)
 
 </div>
 
