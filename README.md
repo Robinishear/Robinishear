@@ -149,7 +149,7 @@ fun_fact: "I started coding with a broken keyboard!"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -160,7 +160,6 @@ fun_fact: "I started coding with a broken keyboard!"
 ---
 
 ## 📊 GitHub Stats:
-![RN_RObiN_vAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=radical)
 
 ---
 
