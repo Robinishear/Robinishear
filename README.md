@@ -6,6 +6,9 @@
 <!-- Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=10001&color=201E67&multiline=true&width=807&height=80&lines=I'm+Mr%2CRobin+Ahmed%2Ca+professional+full-stack+developer;+focused+on+delivering+clean%2C+scalable%2C+;and+high-quality+solutions.)](https://git.io/typing-svg)
 
+<br/>
+
+</div>
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
