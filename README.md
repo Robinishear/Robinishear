@@ -77,24 +77,14 @@ fun_fact: "I started coding with a broken keyboard!"
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer)](https://skillicons.dev)
 
 <br/>
-## 🛠️ My Tech Stack
 
-**⚙️ Backend & Frameworks**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### ⚙️ Backend & Frameworks
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py,django)](https://skillicons.dev)
 
-**🛢️ Databases & Cloud**
 <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛢️ Databases & Cloud
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mariadb,supabase,firebase,mongodb,prisma)](https://skillicons.dev)
 
 ### 🔧 Tools & Deployment
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
