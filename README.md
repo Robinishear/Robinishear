@@ -163,29 +163,6 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 
-## 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
----
-![RN_RObiN_vAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=radical)
-
-## 📊 GitHub Stats:
-
----
-
-## 🚀 Projects
-- [🍲 Recipe Book App](https://recipebook.web.app) – Full stack food app
-- [⚖️ Lawyer Finder](https://lawyersite.web.app) – Dynamic lawyer listing SPA
-
----
-
-## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react)](https://yourportfolio.com)
-
 
 <!-- Header section -->
 
