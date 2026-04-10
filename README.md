@@ -152,6 +152,17 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
