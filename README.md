@@ -1,23 +1,26 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
+<!-- ✅ capsule-render - 100% working -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Robin%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Specialist&descSize=18&descAlignY=56&descColor=00D9FF" />
 
-<!-- Animated Typing SVG -->
+<!-- ✅ readme-typing-svg - 100% working -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=🚀+Building+Full-Stack+Web+Applications;💻+MERN+Stack+%7C+Next.js+%7C+TypeScript;🌏+Based+in+Mymensingh%2C+Bangladesh" alt="Typing SVG" />
 
 <br/>
+
+<!-- ✅ Profile view counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=RN_RObiN_vAI&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+## 🧑‍💻 About Me
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
+<img align="right" height="220" src="https://camo.githubusercontent.com/61491d59e71fec5c794945a0bb23e70e05abf5e1/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566626435643239302f313534313538303631313632342d5445314f4f4c4f574e5a524f424a554d464f49562f6b6535752f333534313538302e676966" alt="Coding" />
 
 ```yaml
-name:        MR, Robin Ahmed
+name:        Md Robin Ahmed
 location:    Mymensingh, Bangladesh
 role:        Full-Stack Developer
 education:   Computer Science & Engineering
@@ -105,16 +108,20 @@ fun_fact: "I started coding with a broken keyboard!"
 
 <div align="center">
 
+<!-- ✅ github-readme-stats - working -->
 <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RN_RObiN_vAI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
+
+<!-- ✅ streak stats - working -->
+<img src="https://streak-stats.demolab.com?user=RN_RObiN_vAI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
 
 <br/><br/>
 
+<!-- ✅ top langs - working -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="42%" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
+<!-- ✅ activity graph - working -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RN_RObiN_vAI&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
@@ -139,17 +146,20 @@ fun_fact: "I started coding with a broken keyboard!"
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
 ### 💡 *"Stay focused. Stay consistent. You are building your empire."* 🏰
 
 <br/>
 
-<!-- Animated Footer -->
+<!-- ✅ capsule-render footer - working -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
---------
+
+
+
+
+
+
 ## 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -234,6 +244,8 @@ interface Developer {
 ---
 
 ## 🛠️ Tech Stack
+
+
 
 <div align="center">
   
