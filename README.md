@@ -55,6 +55,7 @@ fun_fact: "I started coding with a broken keyboard!"
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://https://github.com/Robinishear?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-robin1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://mr-robin-ahmed.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/md.robin.ahmed.548869)
 
 </div>
 
