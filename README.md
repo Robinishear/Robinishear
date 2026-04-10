@@ -6,7 +6,7 @@
 <!-- Animated Typing SVG -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&animation=fadeIn" width="100%" />
+
 
 <br/>
 
