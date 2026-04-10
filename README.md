@@ -87,7 +87,7 @@ fun_fact: "I started coding with a broken keyboard!"
 <br/>
 ### 🔧 Tools & Deployment
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
-
+</div>
 ---
 
 ### 📊 GitHub Activity
