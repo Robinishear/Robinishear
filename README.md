@@ -74,13 +74,13 @@ fun_fact: "I started coding with a broken keyboard!"
 ## 🛠️ Tech Stack
 
 ### 🖥️ Frontend & Styling
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,dom,ts,react,nextjs,tailwind,framer)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer)](https://skillicons.dev)
 
 <br/>
 
 ### ⚙️ Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,prisma,postgres)](https://skillicons.dev)
-
+### 🗄️ Databases & Services
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mariadb,supabase,firebase,mongodb,prisma)](https://skillicons.dev)
 <br/>
 
 ### 🔧 Tools & Deployment
