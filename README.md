@@ -109,6 +109,8 @@ fun_fact: "I started coding with a broken keyboard!"
 ---
 
 
+
+
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
@@ -117,45 +119,7 @@ fun_fact: "I started coding with a broken keyboard!"
 
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="mailto:mdrobinahmed57898@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=100&section=footer" width="100%" />
-
-</div>
-
-
-
-
---
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RN_RObiN_vAI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="42%" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RN_RObiN_vAI&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
 
 ## 🚀 Projects Showcase
 
