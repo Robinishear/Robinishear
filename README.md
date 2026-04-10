@@ -4,7 +4,59 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MR%20Robin%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Specialist&descSize=18&descAlignY=56&descColor=00D9FF" />
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=300&duration=2500&pause=1000&color=1A5B77&center=true&vCenter=true&width=451&lines=I+am+MR%2C+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+always+deliver+high-quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow.)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&animation=fadeIn" width="100%" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=400&size=32&duration=3000&pause=1000&color=1A5B77&center=true&vCenter=true&width=700&lines=I+am+Robin+Ahmed,+a+professional+full-stack+developer.;I+deliver+high-quality,+clean,+and+scalable+projects.;Ensuring+the+best+service+and+reliability+for+clients.;Maintaining+quality+and+punctuality+in+every+task.;Helping+your+business+grow+through+modern+tech.+🚀" alt="Typing SVG" />
+</a>
+
+<br/>
+
+---
+
+### 👨‍💻 About Me
+**Full-Stack Developer** হিসেবে আমি স্কেলেবল এবং ইউজার-ফ্রেন্ডলি ওয়েব অ্যাপ্লিকেশন তৈরি করতে পছন্দ করি। 
+আমার মূল লক্ষ্য হলো ক্লিন কোড এবং লেটেস্ট টেকনোলজি ব্যবহার করে বিজনেসের প্রবৃদ্ধি নিশ্চিত করা।
+
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,mongodb,tailwind,framer,git,vercel,prisma,py" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A5B77&height=100&section=footer" width="100%" />
+
+</div>
+
 
 <br/>
 
