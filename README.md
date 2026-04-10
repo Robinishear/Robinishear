@@ -4,8 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MR%20Robin%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%20MERN%20Specialist&descSize=18&descAlignY=56&descColor=00D9FF" />
 
 <!-- Animated Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=10001&color=171548&multiline=true&width=807&height=80&lines=I'm+Mr.+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+deliver+quality+work+%E2%80%94+every+single+time.+Clean%2C+scalable%2C+and+dependable+solutions.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=10001&color=201E67&multiline=true&width=807&height=80&lines=I'm+Mr.+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+deliver+quality+work+%E2%80%94+every+single+time.+Clean%2C+scalable%2C+and+dependable+solutions.)](https://git.io/typing-svg)
 </div>
 
 ---
