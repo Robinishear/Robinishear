@@ -79,7 +79,7 @@ fun_fact: "I started coding with a broken keyboard!"
 <br/>
 
 ### ⚙️ Backend & Frameworks
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py,django)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py)](https://skillicons.dev)
 
 <br/>
 
