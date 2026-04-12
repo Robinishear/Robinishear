@@ -123,13 +123,15 @@ fun_fact: "I started coding with a broken keyboard!"
 
 <div align="center">
 
+## 🚀 Featured Projects
+
 | 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
-|:------------|:---------------|:--------------|:-------:|
-| **Online Trading Center** | Full-stack client project with JWT auth & advanced filter | React · Express · MongoDB | [🌐 Live](https://bteibd.com/) |
-| **Artifacts** | Full-stack app with JWT auth & filter functionality | Next.js · Express · MongoDB | [🌐 Live](https://profound-sunshine-656a70.netlify.app/) |
-| **Robin's Business Portfolio** | Modern business portfolio website | HTML · CSS · JS | [🌐 Live](https://nexacodestudioflux.com) |
-| **MyApp** | Full-stack client project with TypeScript & SQL | Next.js · TypeScript · SQL · JWT | [🌐 Live](https://shiny-parfait-f0cbc2.netlify.app/) |
-| **GreeenHealth** | Health platform with SSLCommerz payment gateway | React · MongoDB · Mongoose · JWT · SSLCommerz | [🌐 Live](https://www.greeenhealth.com/) |
+|------------|---------------|---------------|--------|
+| **Online Trading Center** | Full-stack client project with JWT auth & advanced filtering system | `React` · `Express` · `MongoDB` | [🌐 Visit](https://bteibd.com/) |
+| **Artifacts** | Full-stack app with authentication & filtering features | `Next.js` · `Express` · `MongoDB` | [🌐 Visit](https://profound-sunshine-656a70.netlify.app/) |
+| **Robin's Business Portfolio** | Modern responsive business portfolio website | `HTML` · `CSS` · `JavaScript` | [🌐 Visit](https://nexacodestudioflux.com) |
+| **MyApp** | Full-stack TypeScript app with SQL & JWT authentication | `Next.js` · `TypeScript` · `SQL` · `JWT` | [🌐 Visit](https://shiny-parfait-f0cbc2.netlify.app/) |
+| **GreeenHealth** | Health platform with SSLCommerz payment integration | `React` · `MongoDB` · `Mongoose` · `JWT` · `SSLCommerz` | [🌐 Visit](https://www.greeenhealth.com/) |
 
 </div>
 
