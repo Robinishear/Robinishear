@@ -174,7 +174,6 @@ fun_fact: "I started coding with a broken keyboard!"
 <img src="https://img.shields.io/github/stars/mdrijoanmaruf?label=Total%20Stars&style=for-the-badge&color=yellow" />
 
 <!-- Recent Activity -->
-### 📊 **Recent Activity**
 
 
 
@@ -182,7 +181,7 @@ fun_fact: "I started coding with a broken keyboard!"
 
 <!-- Coding Stats -->
 ### 💻 **This Week's Coding Time**
-
+<div>
 ```text
 JavaScript   ████████████░░░░░░░░░   48.2%
 Next.js      ████████████████░░░░░   79.1%
