@@ -181,7 +181,7 @@ fun_fact: "I started coding with a broken keyboard!"
 
 <!-- Coding Stats -->
 ### 💻 **This Week's Coding Time**
-<div>
+<div align="center>
 ```text
 JavaScript   ████████████░░░░░░░░░   48.2%
 Next.js      ████████████████░░░░░   79.1%
