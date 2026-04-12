@@ -178,45 +178,16 @@ fun_fact: "I started coding with a broken keyboard!"
 
 
 
-<!-- Coding Stats -->
-### 💻 **This Week's Coding Time**
 
-```text
-JavaScript   ████████████░░░░░░░░░   48.2%
-Next.js      ████████████████░░░░░   79.1%
-React        ████████████████░░░░░   79.1%
-TypeScript   ██████████████░░░░░░░   68.5%
-SQL          ████████████████░░░░░   79.1%
-CSS          ██████████████████░░░   90.7%
-HTML         ██████████████████░░░   89.3%
-</div>
-<!-- Cool Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+<div align="left">
+  ### 💻 **This Week's Coding Time**
 
-</div>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
-
-
-
-
-
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrijoanmaruf&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
-
-</div>
+  ```text
+  JavaScript   ████████████░░░░░░░░░   48.2%
+  Next.js      ████████████████░░░░░   79.1%
+  React        ████████████████░░░░░   79.1%
+  TypeScript   ██████████████░░░░░░░   68.5%
+  SQL          ████████████████░░░░░   79.1%
+  CSS          ██████████████████░░░   90.7%
+  HTML         ██████████████████░░░   89.3%
 
