@@ -182,15 +182,6 @@ fun_fact: "I started coding with a broken keyboard!"
 <!-- Coding Stats -->
 ### 💻 **This Week's Coding Time**
 <div>
-```text
-JavaScript   ████████████░░░░░░░░░   48.2%
-Next.js      ████████████████░░░░░   79.1%
-React        ████████████████░░░░░   79.1%
-TypeScript   ██████████████░░░░░░░   68.5%
-SQL          ████████████████░░░░░   79.1%
-CSS          ██████████████████░░░   90.7%
-HTML         ██████████████████░░░   89.3%
-<!-- Cool Animation -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
 
