@@ -25,11 +25,9 @@
 name:        MR,Robin Ahmed
 location:    Mymensingh, Bangladesh
 role:        Full-Stack Developer
-education:   Computer Science & Engineering
 
 interests:
   - Web Development (Full Stack)
-  - MERN Stack Applications
   - Clean Architecture & CI/CD
   - Open Source Contribution
 
@@ -39,11 +37,6 @@ currently_learning:
   - JWT Authentication
   - Cloud Technologies
 
-2025_goals:
-  - Contribute to Open Source Projects
-  - Build Amazing Full-Stack Apps
-  - Learn Cloud & DevOps
-  - Share Knowledge with Community
 
 fun_fact: "I started coding with a broken keyboard!"
 ```
