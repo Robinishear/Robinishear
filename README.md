@@ -118,10 +118,10 @@ fun_fact: "I started coding with a broken keyboard!"
 
 ## 🚀 Featured Projects
 
-| 🏗️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
+| 🏗️ Project Name | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
 |------------|---------------|---------------|--------|
-| **Coaching management** | Full-stack client project | `next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://marufsictcare.com/) |
-| **Bangladesh National Youth Technical Institute** |Full-stack client project | `Next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://bnyti-edu.bd/) |
+| **M@RUF'S ICT CARE, Coaching management** | Full-stack client project | `next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://marufsictcare.com/) |
+| **Technical Institute, Bangladesh National Youth Technical Institute** |Full-stack client project | `Next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://bnyti-edu.bd/) |
 | **Robin's Business Portfolio** | Modern responsive business portfolio website | `HTML` · `CSS` · `JavaScript` | [🌐 Visit](https://nexacodestudioflux.com) |
 | **MyApp** | Full-stack TypeScript app with SQL & JWT authentication | `Next.js` · `TypeScript` · `SQL` · `JWT` | [🌐 Visit](https://shiny-parfait-f0cbc2.netlify.app/) |
 | **GreeenHealth** | Health platform with SSLCommerz payment integration | `React` · `MongoDB` · `Mongoose` · `JWT` · `SSLCommerz` | [🌐 Visit](https://www.greeenhealth.com/) |
