@@ -189,6 +189,16 @@
 <a href="https://www.facebook.com/md.robin.ahmed.548869">
   <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
 </a>
+
+&nbsp;&nbsp;
+<a href="https://wa.me/8801334757898">
+  <img src="https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=22D3EE&labelColor=0A101F" alt="WhatsApp" />
+</a>
+
+&nbsp;&nbsp;
+<a href="mailto:mrrobinahmed57898@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A101F" alt="Email" />
+</a>
 &nbsp;&nbsp;
 <a href="">
   <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0A101F" alt="Portfolio" /></a>
