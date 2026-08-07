@@ -16,7 +16,7 @@
 
 </div>
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -34,20 +34,20 @@
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 
-### 🖥️ Frontend & Styling
+###  Frontend & Styling
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,figma)](https://skillicons.dev)
 
 <br/>
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py)](https://skillicons.dev)
 
 <br/>
 
-### 🔐 Authentication & Security
+###  Authentication & Security
 [![Auth Skills](https://skillicons.dev/icons?i=firebase,supabase,nextjs)](https://skillicons.dev)
 <br/>
 ![Better-Auth](https://img.shields.io/badge/Better--Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
@@ -83,13 +83,13 @@
 
 
 
-## 🚀 Projects Showcase
+##  Projects Showcase
 
 <div align="center">
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| 🏗️ Project Name | 📝 Description | 🛠️ Tech Stack | 🔗 Live |
+|  Project Name |  Description |  Tech Stack |  Live |
 |------------|---------------|---------------|--------|
 | **M@RUF'S ICT CARE, Coaching management** | Full-stack client project | `next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://marufsictcare.com/) |
 | **NATIONAL INSTITUTE, Bangladesh National Youth Technical Institute** |Full-stack client project | `Next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://bnyti-edu.bd/) |
@@ -105,7 +105,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
-### 💡 *"Stay focused. Stay consistent. You are building your empire."* 🏰
+### *"Stay focused. Stay consistent. You are building your empire."* 
 
 <br/>
 
@@ -146,7 +146,7 @@
 
 
 <!-- Coding Stats -->
-### 💻 **This Week's Coding Time**
+### **This Week's Coding Time**
 <div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
