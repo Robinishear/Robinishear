@@ -6,7 +6,8 @@
 <!-- Animated Typing SVG -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=23&duration=2500&pause=1000&color=1A5B77&center=true&vCenter=true&width=451&lines=I+am+MR%2C+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+always+deliver+high-quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=23&duration=2500&pause=1000&color=1A5B77&center=true&vCenter=true&width=451&lines=I+am+MR%2C+Robin+Ahmed%2C+a+professional+full-stack+developer.;I+always+deliver+high-Projects Showcase
+quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow.)](https://git.io/typing-svg)
 
 
 
@@ -78,99 +79,139 @@
 
 
 
-
-
-##  Projects Showcase
+## 🐍 Contribution Snake
 
 <div align="center">
-
-##  Featured Projects
-
-|  Project Name |  Description |  Tech Stack |  Live |
-|------------|---------------|---------------|--------|
-| **M@RUF'S ICT CARE, Coaching management** | Full-stack client project | `next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://marufsictcare.com/) |
-| **NATIONAL INSTITUTE, Bangladesh National Youth Technical Institute** |Full-stack client project | `Next.js` ·`TypeScript` · `Express` · `PostgresSQL` | [🌐 Visit](https://bnyti-edu.bd/) |
-| **E-COMMERCE, GreeenHealth** | Health platform with SSLCommerz payment integration | `React` · `MongoDB` · `Mongoose` · `JWT` · `SSLCommerz` | [🌐 Visit](https://www.greeenhealth.com/) |
-| **Robin's Business Portfolio** | Modern responsive business portfolio website | `HTML` · `CSS` · `JavaScript` | [🌐 Visit](https://nexacodestudioflux.com) |
-| **MyApp** | Full-stack TypeScript app with SQL & JWT authentication | `Next.js` · `TypeScript` · `SQL` · `JWT` | [🌐 Visit](https://shiny-parfait-f0cbc2.netlify.app/) |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-### *"Stay focused. Stay consistent. You are building your empire."* 
-
-<br/>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Live Metrics -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32"> Live Metrics
-
-<div align="center">
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=mdrijoanmaruf&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/mdrijoanmaruf?label=Followers&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/mdrijoanmaruf?label=Total%20Stars&style=for-the-badge&color=yellow" />
-
-<!-- Recent Activity -->
-
-
-
-
-
-<!-- Coding Stats -->
-### **This Week's Coding Time**
-<div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
-
-</div>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/output/snake-light.svg" />
 </picture>
 
+</div>
+
+<!-- ===== END SNAKE ===== -->
+<br/>
+
+## ☄ Contribution Activity
+
+<div align="center">
 
 
-
-
-
-
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrijoanmaruf&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
+<!-- Contribution Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kashifkhan117401-bit&bg_color=0A101F&color=22D3EE&line=22D3EE&point=A78BFA&text_color=94A3B8&title_color=22D3EE&area=true&area_color=0A101F&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kashifkhan117401-bit&bg_color=FFFFFF&color=0891B2&line=0891B2&point=7C3AED&text_color=0F172A&title_color=0891B2&area=true&area_color=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashifkhan117401-bit&bg_color=0A101F&color=22D3EE&line=22D3EE&point=A78BFA&text_color=94A3B8&title_color=22D3EE&area=true&area_color=0A101F&hide_border=true" width="100%" alt="Kashif's Contribution Activity Graph" />
+</picture>
 
 </div>
+
+<!-- ===== PINNED / POPULAR PROJECTS ===== -->
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Jarvis Desktop Voice Assistant" />
+</picture>
+</a>
+<a href="https://github.com/kashifkhan117401-bit/Mental-Health-agent">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Mental Health Agent" />
+</picture>
+</a>
+<br/>
+<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_faqchatbot&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_faqchatbot&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha FAQ Chatbot" />
+</picture>
+</a>
+<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Language-Translation-Tool&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Language-Translation-Tool&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha Language Translation Tool" />
+</picture>
+</a>
+<br/>
+<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha Object Detection and Tracking" />
+</picture>
+</a>
+<a href="https://github.com/kashifkhan117401-bit/agency-agents">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Agency Agents" />
+</picture>
+</a>
+
+</div>
+
+<!-- ===== RECENT PROJECTS ===== -->
+<br/>
+
+## 🆕 Recent Projects
+
+<div align="center">
+
+<a href="https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Campus-Network-Design-Simulation&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Campus-Network-Design-Simulation&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Campus Network Design Simulation" />
+</picture>
+</a>
+<a href="https://github.com/kashifkhan117401-bit/Bank-Management-system">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Bank-Management-system&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Bank-Management-system&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Bank Management System" />
+</picture>
+</a>
+<br/>
+<a href="https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Password-Strength-Analyzer&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Password-Strength-Analyzer&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Password Strength Analyzer" />
+</picture>
+</a>
+<a href="https://github.com/kashifkhan117401-bit/Titanic_Analysis_project">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Titanic_Analysis_project&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Titanic_Analysis_project&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Titanic Analysis Project" />
+</picture>
+</a>
+
+</div>
+
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+
+<a href="https://linkedin.com/in/kashif-hafeez-545794330">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/i_kashiif">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1AZ6rpfhxb/">
+  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://kashifhafeez-portfolio1.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0A101F" alt="Portfolio" /></a>
+&nbsp;&nbsp;
+</div>
+
+<!-- ===== END SOCIAL BADGES ===== -->
+
+<!-- =================================== -->
