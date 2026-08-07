@@ -91,56 +91,25 @@
 
 </div>
 
-<!-- ===== PINNED / POPULAR PROJECTS ===== -->
+<!-- ===== PINNED / POPULAR PROJECTS ===================== -->
 <br/>
 
 ## 📌 Featured Projects
-
 <div align="center">
-
-<a href="https://github.com/kashifkhan117401-bit/Jarvis-Desktop-Voice-Assistant">
+<a href="https://github.com/Robinishear/BACKEND-PH-HEALTHCARE-MANAGEMENT-SYSTEM">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Jarvis-Desktop-Voice-Assistant&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Jarvis Desktop Voice Assistant" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=BACKEND-PH-HEALTHCARE-MANAGEMENT-SYSTEM&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=BACKEND-PH-HEALTHCARE-MANAGEMENT-SYSTEM&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="PH Healthcare Management System Backend" />
 </picture>
 </a>
-<a href="https://github.com/kashifkhan117401-bit/Mental-Health-agent">
+<a href="https://github.com/Robinishear/-DOCKER-NGINX-DEPLOYMENT-">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Mental-Health-agent&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Mental Health Agent" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=-DOCKER-NGINX-DEPLOYMENT-&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=-DOCKER-NGINX-DEPLOYMENT-&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Docker Nginx Deployment" />
 </picture>
 </a>
-<br/>
-<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_faqchatbot">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_faqchatbot&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_faqchatbot&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha FAQ Chatbot" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Language-Translation-Tool">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Language-Translation-Tool&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Language-Translation-Tool&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha Language Translation Tool" />
-</picture>
-</a>
-<br/>
-<a href="https://github.com/kashifkhan117401-bit/CodeAlpha_Object-Detection-and-Tracking">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=CodeAlpha_Object-Detection-and-Tracking&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="CodeAlpha Object Detection and Tracking" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/agency-agents">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=agency-agents&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Agency Agents" />
-</picture>
-</a>
-
 </div>
 
-<!-- ===== RECENT PROJECTS ===== -->
-<br/>
 
 ## 🆕 Recent Projects
 
