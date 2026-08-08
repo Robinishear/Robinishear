@@ -128,9 +128,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-
-<div align="center">
-  <img src="assets/ecosystem.svg" alt="Project Ecosystem" width="90%" />
-</div>
-
