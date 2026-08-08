@@ -123,8 +123,18 @@
 <!-- =================================== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Robinishear/Robinishear/output/github-contribution-grid-snake-dark.svg"
+  />
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Robinishear/Robinishear/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Robinishear/Robinishear/output/github-contribution-grid-snake.svg"
+  />
+</picture>
