@@ -130,5 +130,7 @@
 
 
 
-
+<div align="center">
+  <img src="assets/ecosystem.svg" alt="Project Ecosystem" width="90%" />
+</div>
 
