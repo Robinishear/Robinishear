@@ -161,33 +161,13 @@
 
 <div align="center">
 
-<a href="https://github.com/kashifkhan117401-bit/Campus-Network-Design-Simulation">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Campus-Network-Design-Simulation&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Campus-Network-Design-Simulation&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Campus Network Design Simulation" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/Bank-Management-system">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Bank-Management-system&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Bank-Management-system&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Bank Management System" />
-</picture>
-</a>
-<br/>
-<a href="https://github.com/kashifkhan117401-bit/Password-Strength-Analyzer">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Password-Strength-Analyzer&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Password-Strength-Analyzer&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Password Strength Analyzer" />
-</picture>
-</a>
-<a href="https://github.com/kashifkhan117401-bit/Titanic_Analysis_project">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Titanic_Analysis_project&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=kashifkhan117401-bit&repo=Titanic_Analysis_project&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Titanic Analysis Project" />
-</picture>
-</a>
+
+
+
 
 </div>
+
+
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center" style="white-space: nowrap; overflow-x: auto;">
