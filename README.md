@@ -128,8 +128,20 @@
   <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=TECHNICAL-EDUCATION-TECHNILOLOGY&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Technical Education Technology" />
 </picture>
 </a>
+<br/>
+<a href="https://github.com/Robinishear/REODACT-WEBSITE">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=REODACT-WEBSITE&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=REODACT-WEBSITE&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Reodact Website" />
+</picture>
+</a>
+<a href="https://github.com/Robinishear/PRISMA-BLOG-SERVER">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=PRISMA-BLOG-SERVER&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/pin/?username=Robinishear&repo=PRISMA-BLOG-SERVER&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&hide_border=true" alt="Prisma Blog Server" />
+</picture>
+</a>
 </div>
-
 
 ## 🆕 Recent Projects
 
