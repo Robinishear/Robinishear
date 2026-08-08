@@ -121,3 +121,4 @@
 </div>
 <!-- ===== END SOCIAL BADGES ===== -->
 <!-- =================================== -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
