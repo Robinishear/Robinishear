@@ -133,7 +133,7 @@
 
 A VS Code extension that explains code errors in plain language using AI — hover over any error to get an instant diagnosis and fix suggestion, in 18 languages.
 
-<img src="images/ai-error-explainer-demo.png" width="800" alt="AI Error Explainer diagnosis panel" />
+<img src="images/ai-error-explainer.png" width="800" alt="AI Error Explainer diagnosis panel" />
 
 **Tech:** TypeScript · VS Code Extension API · esbuild
 
