@@ -5,106 +5,87 @@
 
 <!-- Animated Typing SVG -->
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=23&duration=2500&pause=1000&color=1A5B77&center=true&vCenter=true&width=451&lines=I+am+%2C+Robin+Ryan%2C+a+professional+full-stack+developer.;I+always+deliver+high-quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow.)](https://git.io/typing-svg)
-
-
-
 
 <br/>
 
 </div>
 
+## 🛠️ Tech Stack
 
-
-
-##  Tech Stack
-
-
-###  Frontend & Styling
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,figma)](https://skillicons.dev)
+### Frontend & Styling
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 
 <br/>
 
-###  Backend & Frameworks
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py)](https://skillicons.dev)
+### Backend & Frameworks
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go)](https://skillicons.dev)
 
 <br/>
 
-###  Authentication & Security
-[![Auth Skills](https://skillicons.dev/icons?i=firebase,supabase,nextjs)](https://skillicons.dev)
-<br/>
-![Better-Auth](https://img.shields.io/badge/Better--Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
-![Auth.js](https://img.shields.io/badge/Auth.js-FF4154?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### Authentication & Security
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 <br/>
 
-###  Databases & Cloud
-[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,prisma)](https://skillicons.dev)
-<br/>
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+### Databases & ORM
+[![Database Skills](https://skillicons.dev/icons?i=postgres,prisma,redis)](https://skillicons.dev)
 
 <br/>
 
 ### 🔧 Tools & Deployment
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,postman)](https://skillicons.dev)
 
 </div>
 
 ---
 
-
-
-
-
-
-
-##  Contribution Snake
+## ☄ Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/kashifkhan117401-bit/kashifkhan117401-bit/output/snake-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robinishear/Robinishear/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robinishear/Robinishear/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Robinishear/Robinishear/output/snake-light.svg" />
 </picture>
 
 </div>
 
-<!-- ===== END SNAKE ===== -->
 <br/>
 
-## ☄ Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
-
 
 <!-- Contribution Activity Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kashifkhan117401-bit&bg_color=0A101F&color=22D3EE&line=22D3EE&point=A78BFA&text_color=94A3B8&title_color=22D3EE&area=true&area_color=0A101F&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kashifkhan117401-bit&bg_color=FFFFFF&color=0891B2&line=0891B2&point=7C3AED&text_color=0F172A&title_color=0891B2&area=true&area_color=FFFFFF&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashifkhan117401-bit&bg_color=0A101F&color=22D3EE&line=22D3EE&point=A78BFA&text_color=94A3B8&title_color=22D3EE&area=true&area_color=0A101F&hide_border=true" width="100%" alt="Kashif's Contribution Activity Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Robinishear&bg_color=0A101F&color=22D3EE&line=22D3EE&point=A78BFA&text_color=94A3B8&title_color=22D3EE&area=true&area_color=0A101F&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Robinishear&bg_color=FFFFFF&color=0891B2&line=0891B2&point=7C3AED&text_color=0F172A&title_color=0891B2&area=true&area_color=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robinishear&bg_color=0A101F&color=22D3EE&line=22D3EE&point=A78BFA&text_color=94A3B8&title_color=22D3EE&area=true&area_color=0A101F&hide_border=true" width="100%" alt="Robin's Contribution Activity Graph" />
 </picture>
 
 </div>
 
-<!-- ===== PINNED / POPULAR PROJECTS ===================== -->
 <br/>
+
+## 🚀 Featured Project
+
+### [AI Error Explainer](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
+
+A VS Code extension that explains code errors in plain language using AI — hover over any error to get an instant diagnosis and fix suggestion, in 18 languages.
 
 <div align="center">
-
-
-
-
-
+<img src="images/ai-error-explainer-demo.png" width="700" alt="AI Error Explainer diagnosis panel" />
 </div>
 
+**Tech:** TypeScript · VS Code Extension API · esbuild
+
+🔗 Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
+
+---
 
 <!-- ===== SOCIAL BADGES ===== -->
-<br/>
 <div align="center" style="white-space: nowrap; overflow-x: auto;">
 <a href="https://www.linkedin.com/in/mr-robin-ahmed/">
   <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
@@ -116,10 +97,9 @@
   <img src="https://img.shields.io/badge/WhatsApp-0A101F?style=for-the-badge&logo=whatsapp&logoColor=22D3EE&labelColor=0A101F" alt="WhatsApp" />
 </a>&nbsp;&nbsp;<a href="mailto:mrrobinahmed57898@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A101F" alt="Email" />
-</a>&nbsp;&nbsp;<a href="">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=0A101F" alt="Portfolio" /></a>
+</a>
 </div>
-<!-- ===== END SOCIAL BADGES ===== -->
+<!-- ===== END SOCIAL BADGES ===== -->****
 <!-- =================================== -->
 
 <picture>
