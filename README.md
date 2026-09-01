@@ -41,7 +41,7 @@
 
 <br/>
 
-### 🛢️ Databases & Cloud
+###  Databases & Cloud
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,prisma)](https://skillicons.dev)
 <br/>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -62,7 +62,7 @@
 
 
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
 
@@ -130,15 +130,12 @@
 
 
 
-## 🚀 Featured Project
+## Featured Project
 
 ### [AI Error Explainer](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
 A VS Code extension that explains code errors in plain language using AI — hover over any error to get an instant diagnosis and fix suggestion, in 18 languages.
 
 **Tech:** TypeScript · VS Code Extension API · esbuild
 
-🔗 Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
+Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
 
-
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/robinishear.ai-error-explainer?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/robinishear.ai-error-explainer)](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
