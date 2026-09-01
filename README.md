@@ -49,7 +49,7 @@
 
 <br/>
 
-### 🔧 Tools & Deployment
+### Tools & Deployment
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
 
 </div>
@@ -77,7 +77,7 @@
 <!-- ===== END SNAKE ===== -->
 <br/>
 
-## ☄ Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
