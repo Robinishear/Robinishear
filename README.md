@@ -127,3 +127,14 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
 </picture>
+
+
+
+## 🚀 Featured Project
+
+### [AI Error Explainer](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
+A VS Code extension that explains code errors in plain language using AI — hover over any error to get an instant diagnosis and fix suggestion, in 18 languages.
+
+**Tech:** TypeScript · VS Code Extension API · esbuild
+
+🔗 Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
