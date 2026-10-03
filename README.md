@@ -1,19 +1,8 @@
-<div align="center">
+<p align="center">
+<p align="center">
+  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/profile-header.svg" />
+</p>
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%20Robin%20Ryan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%7C%&descSize=18&descAlignY=56&descColor=00D9FF" />
-
-<!-- Animated Typing SVG -->
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=23&duration=2500&pause=1000&color=1A5B77&center=true&vCenter=true&width=451&lines=I+am+%2C+Robin+Ryan%2C+a+professional+full-stack+developer.;I+always+deliver+high-quality+projects+that+are+clean%2C+;scalable%2C+and+reliable.;My+goal+is+to+ensure+the+best+service+for+my+clients.;I+maintain+quality+and+punctuality+in+every+project.;Through+my+work%2C+I+help+your+business+grow.)](https://git.io/typing-svg)
-
-
-
-
-<br/>
-
-</div>
 
 
 
