@@ -128,7 +128,45 @@
 <g><animateTransform attributeName="transform" type="rotate" from="120 1322 340" to="480 1322 340" dur="18s" repeatCount="indefinite"/><circle cx="1571" cy="340" r="7" fill="#FFB84D"/><circle cx="1571" cy="340" r="15" fill="#FFB84D" opacity=".25" filter="url(#soft)"/></g>
 <g><animateTransform attributeName="transform" type="rotate" from="240 1322 340" to="600 1322 340" dur="18s" repeatCount="indefinite"/><circle cx="1571" cy="340" r="7" fill="#B48CFF"/><circle cx="1571" cy="340" r="15" fill="#B48CFF" opacity=".25" filter="url(#soft)"/></g>
 <circle cx="1322" cy="340" r="205" fill="none" stroke="#2DD4BF" stroke-width="2"><animate attributeName="r" values="205;275" dur="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".45;0" dur="3.6s" repeatCount="indefinite"/></circle>
-<text class="sans" x="1222.0" y="601" font-size="22" font-weight="700" fill="#E8EEF9">Artificial Intelligence</text>
+<defs>
+  <!-- 1. Neon glow filter effect -->
+  <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="blur" />
+    <feMerge>
+      <feMergeNode in="blur" />
+      <feMergeNode in="SourceGraphic" />
+    </feMerge>
+  </filter>
 
+  <!-- 2. Rotating border color gradient -->
+  <linearGradient id="rotatingGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00F2FE" />
+    <stop offset="50%" stop-color="#4FACFE" />
+    <stop offset="100%" stop-color="#00E5FF" />
+  </linearGradient>
+</defs>
+
+<!-- 3. Main container group -->
+<g transform="translate(1200, 560)">
+  <!-- Dark background box -->
+  <rect x="0" y="0" width="310" height="60" rx="10" fill="#0D1117" opacity="0.8" />
+
+  <!-- Animated rotating neon border -->
+  <rect x="0" y="0" width="310" height="60" rx="10" 
+        fill="none" 
+        stroke="url(#rotatingGradient)" 
+        stroke-width="3" 
+        stroke-dasharray="80 200" 
+        filter="url(#neonGlow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-560" dur="3s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Centered text element -->
+  <text class="sans" x="155" y="37" 
+        font-size="22" 
+        font-weight="700" 
+        fill="#E8EEF9" 
+        text-anchor="middle">Artificial Intelligence</text>
+</g>
 </g>
 </svg>
