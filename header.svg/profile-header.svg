@@ -117,8 +117,11 @@
 <g class="photo-in">
 <circle cx="1322" cy="340" r="239" fill="#2DD4BF" opacity=".16" filter="url(#blur)"/>
 <circle cx="1322" cy="340" r="205" fill="url(#gMono)"/>
-<image x="1117" y="135" width="410" height="410" clip-path="url(#face)" preserveAspectRatio="xMidYMid slice" href="https://raw.githubusercontent.com/Robinishear/Robinishear/main/193723697.png"/>
-  <circle cx="1322" cy="340" r="205" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
+
+  
+<image x="1117" y="135" width="410" height="410" clip-path="url(#face)" preserveAspectRatio="xMidYMid slice" xlink:href="https://i.ibb.co.com/ch8gY93y/193723697.png"/>
+
+<circle cx="1322" cy="340" r="205" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
 <circle cx="1322" cy="340" r="223" fill="none" stroke="#1F2B47" stroke-width="2"/>
 <circle cx="1322" cy="340" r="233" fill="none" stroke="url(#gRing)" stroke-width="6" stroke-linecap="round" stroke-dasharray="381 1083"><animateTransform attributeName="transform" type="rotate" from="0 1322 340" to="360 1322 340" dur="9s" repeatCount="indefinite"/></circle>
 <g><animateTransform attributeName="transform" type="rotate" from="0 1322 340" to="360 1322 340" dur="18s" repeatCount="indefinite"/><circle cx="1571" cy="340" r="7" fill="#2DD4BF"/><circle cx="1571" cy="340" r="15" fill="#2DD4BF" opacity=".25" filter="url(#soft)"/></g>
