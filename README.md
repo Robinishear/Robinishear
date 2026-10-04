@@ -14,37 +14,6 @@
 
 ## Featured Project
 
-<!-- Artificial Intelligence Animated Card (Positioned with Stats Row) -->
-<g class="in" style="animation-delay:1.5s" transform="translate(1032, 562)">
-  <!-- Gray 800 Base Box (#1F2937) -->
-  <rect x="0" y="0" width="220" height="60" rx="16" fill="#1F2937" stroke="#374151" stroke-width="1.2" />
-
-  <!-- Subtitle Blue Ambient Light Spotlights -->
-  <rect x="0" y="0" width="220" height="60" rx="16" fill="url(#blueGlowLeft)" />
-  <rect x="0" y="0" width="220" height="60" rx="16" fill="url(#blueGlowRight)" />
-
-  <!-- Outer Pulsing Glow Effect -->
-  <rect x="0" y="0" width="220" height="60" rx="16" fill="none" stroke="#60A5FA" stroke-width="1.5" opacity="0.3" filter="url(#proNeonFilter)">
-    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite" />
-  </rect>
-
-  <!-- GitHub-Compatible Rotating Neon Border Runner -->
-  <rect x="0" y="0" width="220" height="60" rx="16" 
-        fill="none" 
-        stroke="url(#proGradient)" 
-        stroke-width="2.5" 
-        stroke-dasharray="70 150" 
-        filter="url(#proNeonFilter)">
-    <animate attributeName="stroke-dashoffset" from="0" to="-440" dur="2.8s" repeatCount="indefinite" />
-  </rect>
-
-  <!-- Centered Label -->
-  <text class="sans" x="110" y="37" 
-        font-size="18" 
-        font-weight="800" 
-        fill="#E8EEF9" 
-        letter-spacing="0.3"
-        text-anchor="middle">Artificial Intelligence</text>
 </g>
 <p align="center">
 <p align="center">
