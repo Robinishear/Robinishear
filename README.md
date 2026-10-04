@@ -12,44 +12,18 @@
 
 
 
-##  Tech Stack
+## Featured Project
 
+A VS Code extension that explains code errors in plain language using AI — hover over any error to get an instant diagnosis and fix suggestion, in 41 languages.
 
-###  Frontend & Styling
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,figma)](https://skillicons.dev)
+<p align="center">
+<p align="center">
+  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-error-explainer-extension.svg" />
+</p>
 
-<br/>
+**Tech:** TypeScript · VS Code Extension API · esbuild
 
-###  Backend & Frameworks
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,go,py)](https://skillicons.dev)
-
-<br/>
-
-###  Authentication & Security
-[![Auth Skills](https://skillicons.dev/icons?i=firebase,supabase,nextjs)](https://skillicons.dev)
-<br/>
-![Better-Auth](https://img.shields.io/badge/Better--Auth-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
-![Auth.js](https://img.shields.io/badge/Auth.js-FF4154?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-<br/>
-
-###  Databases & Cloud
-[![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,prisma)](https://skillicons.dev)
-<br/>
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-<br/>
-
-### Tools & Deployment
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,vercel,netlify,postman,docker)](https://skillicons.dev)
-
-</div>
-
----
-
+## Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
 
 
 
@@ -117,16 +91,3 @@
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-## Featured Project
-
-A VS Code extension that explains code errors in plain language using AI — hover over any error to get an instant diagnosis and fix suggestion, in 41 languages.
-
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-error-explainer-extension.svg" />
-</p>
-
-**Tech:** TypeScript · VS Code Extension API · esbuild
-
-## Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
