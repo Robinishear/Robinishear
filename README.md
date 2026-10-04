@@ -14,12 +14,6 @@
 
 ## Featured Project
 
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-error-explainer-card.svg" />
-</p>
-
-
 </g>
 <p align="center">
 <p align="center">
