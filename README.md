@@ -13,9 +13,12 @@
 
 
 ## Featured Project
+
 <p align="center">
-  A VS Code extension that explains code errors in plain language using AI — hover over any error to get an instant diagnosis and fix suggestion, in 41 languages. 🌐✨
+<p align="center">
+  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-error-explainer-card.svg" />
 </p>
+
 
 </g>
 <p align="center">
