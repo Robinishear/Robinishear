@@ -1,0 +1,294 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560" role="img" aria-label="AI Software Analysis Platform - animated demo">
+  <title>AI Software Analysis Platform</title>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#7dd3fc" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7dd3fc" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pgGrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="0.5" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    text{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+    .mono{font-family:'SFMono-Regular',Consolas,'Courier New',monospace}
+    .k{fill:#7dd3fc}
+    .s{fill:#22c55e}
+    .a{animation-duration:20s;animation-iteration-count:infinite;animation-timing-function:ease-out;opacity:0}
+    .r{animation-duration:20s;animation-iteration-count:infinite;animation-timing-function:linear;transform-box:fill-box;transform-origin:right center}
+
+    @keyframes f22{0%,22%{opacity:0}26%,92%{opacity:1}97%,100%{opacity:0}}
+    @keyframes f30{0%,30%{opacity:0}33%,92%{opacity:1}97%,100%{opacity:0}}
+    @keyframes f40{0%,40%{opacity:0}43%,92%{opacity:1}97%,100%{opacity:0}}
+    @keyframes f50{0%,50%{opacity:0}53%,92%{opacity:1}97%,100%{opacity:0}}
+    @keyframes f55{0%,55%{opacity:0}58%,92%{opacity:1}97%,100%{opacity:0}}
+    @keyframes f60{0%,60%{opacity:0}63%,92%{opacity:1}97%,100%{opacity:0}}
+    @keyframes f70{0%,70%{opacity:0}73%,92%{opacity:1}97%,100%{opacity:0}}
+    @keyframes f75{0%,75%{opacity:0;transform:translateY(10px)}79%,92%{opacity:1;transform:translateY(0)}97%,100%{opacity:0;transform:translateY(0)}}
+
+    @keyframes rU{0%,2%{transform:scaleX(1)}12%,92%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}
+    @keyframes rc25{0%,25%{transform:scaleX(1)}29%,92%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}
+    @keyframes rc30{0%,30%{transform:scaleX(1)}34%,92%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}
+    @keyframes rc35{0%,35%{transform:scaleX(1)}39%,92%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}
+    @keyframes rc40{0%,40%{transform:scaleX(1)}44%,92%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}
+    @keyframes rc45{0%,45%{transform:scaleX(1)}49%,92%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}
+    @keyframes rc50{0%,50%{transform:scaleX(1)}54%,92%{transform:scaleX(0)}97%,100%{transform:scaleX(1)}}
+
+    @keyframes rin{0%,15%{transform:translateX(320px);opacity:0}22%,92%{transform:translateX(0);opacity:1}97%,100%{transform:translateX(0);opacity:0}}
+    @keyframes float{0%{transform:translateY(0)}100%{transform:translateY(-6px)}}
+    @keyframes blink{0%,90%,100%{transform:scaleY(1)}95%{transform:scaleY(0.1)}}
+    @keyframes pg{0%,3%{transform:scaleX(0);opacity:1}75%{transform:scaleX(1);opacity:1}92%{transform:scaleX(1);opacity:1}97%,100%{transform:scaleX(1);opacity:0}}
+    @keyframes scan{0%,25%{opacity:0;transform:translateY(0)}27%{opacity:.9;transform:translateY(0)}72%{opacity:.9;transform:translateY(190px)}75%,100%{opacity:0;transform:translateY(190px)}}
+    @keyframes flow{to{stroke-dashoffset:-24}}
+
+    .robot{animation:rin 20s infinite ease-out;opacity:0}
+    .float{animation:float 1.6s ease-in-out infinite alternate}
+    .eyes{animation:blink 4s infinite;transform-box:fill-box;transform-origin:center}
+    .scan{animation:scan 20s infinite linear;opacity:0}
+    .pg{animation:pg 20s infinite linear;transform-box:fill-box;transform-origin:left center}
+    .dash{stroke-dasharray:6 6;animation:flow 0.8s linear infinite}
+  </style>
+
+  <!-- Background -->
+  <rect width="900" height="560" rx="18" fill="#0a1020"/>
+  <rect width="900" height="560" rx="18" fill="url(#grid)"/>
+  <circle cx="780" cy="120" r="260" fill="url(#glowBlue)"/>
+  <circle cx="90" cy="470" r="240" fill="url(#glowGreen)"/>
+
+  <!-- Header -->
+  <rect width="900" height="46" rx="18" fill="#0d1730"/>
+  <rect y="28" width="900" height="18" fill="#0d1730"/>
+  <circle cx="24" cy="23" r="6" fill="#ef4444"/>
+  <circle cx="44" cy="23" r="6" fill="#facc15"/>
+  <circle cx="64" cy="23" r="6" fill="#22c55e"/>
+  <text x="450" y="29" text-anchor="middle" font-size="16" font-weight="700" fill="#e2e8f0"><tspan fill="#7dd3fc">AI</tspan> Software Analysis Platform</text>
+  <circle cx="796" cy="23" r="4" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="868" y="28" text-anchor="end" font-size="12" font-weight="600" fill="#22c55e">LIVE</text>
+  <rect class="pg" x="0" y="45" width="900" height="2" fill="url(#pgGrad)"/>
+
+  <!-- URL input -->
+  <rect x="30" y="62" width="470" height="40" rx="12" fill="#0d1730" stroke="#1e3a5f"/>
+  <circle cx="52" cy="82" r="5" fill="none" stroke="#7dd3fc" stroke-width="1.5"/>
+  <text class="mono" x="68" y="87" font-size="13" fill="#e2e8f0">https://demo-saas-app.com/dashboard</text>
+  <rect class="r" style="animation-name:rU" x="64" y="68" width="430" height="28" fill="#0d1730"/>
+  <rect x="510" y="62" width="80" height="40" rx="12" fill="#7dd3fc"/>
+  <text x="550" y="87" text-anchor="middle" font-size="13" font-weight="700" fill="#0a1020">Analyze</text>
+
+  <!-- Dashboard table -->
+  <rect x="30" y="116" width="560" height="250" rx="14" fill="#0d1730" stroke="#1e293b"/>
+  <text x="52" y="139" font-size="11" font-weight="700" fill="#64748b" letter-spacing="1.2">SECTION</text>
+  <text x="270" y="139" font-size="11" font-weight="700" fill="#64748b" letter-spacing="1.2">STATUS</text>
+  <text x="560" y="139" text-anchor="end" font-size="11" font-weight="700" fill="#64748b" letter-spacing="1.2">SCORE</text>
+  <line x1="30" y1="152" x2="590" y2="152" stroke="#1e293b"/>
+
+  <!-- Row 1 -->
+  <text x="52" y="181" font-size="14" fill="#e2e8f0">Structure</text>
+  <rect x="270" y="164" width="104" height="24" rx="12" fill="#1e293b"/>
+  <text x="322" y="180" text-anchor="middle" font-size="11" fill="#94a3b8">Pending</text>
+  <text x="560" y="181" text-anchor="end" font-size="14" fill="#475569">--</text>
+  <g class="a" style="animation-name:f30">
+    <rect x="270" y="164" width="104" height="24" rx="12" fill="#052e1a" stroke="#22c55e"/>
+    <text x="322" y="180" text-anchor="middle" font-size="11" font-weight="600" fill="#86efac">Analyzed</text>
+    <rect x="530" y="166" width="36" height="20" fill="#0d1730"/>
+    <text x="560" y="181" text-anchor="end" font-size="14" font-weight="700" fill="#7dd3fc">94%</text>
+  </g>
+  <line x1="30" y1="196" x2="590" y2="196" stroke="#16223d"/>
+
+  <!-- Row 2 -->
+  <text x="52" y="221" font-size="14" fill="#e2e8f0">Design</text>
+  <rect x="270" y="204" width="104" height="24" rx="12" fill="#1e293b"/>
+  <text x="322" y="220" text-anchor="middle" font-size="11" fill="#94a3b8">Pending</text>
+  <text x="560" y="221" text-anchor="end" font-size="14" fill="#475569">--</text>
+  <g class="a" style="animation-name:f40">
+    <rect x="270" y="204" width="104" height="24" rx="12" fill="#052e1a" stroke="#22c55e"/>
+    <text x="322" y="220" text-anchor="middle" font-size="11" font-weight="600" fill="#86efac">Analyzed</text>
+    <rect x="530" y="206" width="36" height="20" fill="#0d1730"/>
+    <text x="560" y="221" text-anchor="end" font-size="14" font-weight="700" fill="#7dd3fc">91%</text>
+  </g>
+  <line x1="30" y1="236" x2="590" y2="236" stroke="#16223d"/>
+
+  <!-- Row 3 -->
+  <text x="52" y="261" font-size="14" fill="#e2e8f0">Features</text>
+  <rect x="270" y="244" width="104" height="24" rx="12" fill="#1e293b"/>
+  <text x="322" y="260" text-anchor="middle" font-size="11" fill="#94a3b8">Pending</text>
+  <text x="560" y="261" text-anchor="end" font-size="14" fill="#475569">--</text>
+  <g class="a" style="animation-name:f50">
+    <rect x="270" y="244" width="104" height="24" rx="12" fill="#052e1a" stroke="#22c55e"/>
+    <text x="322" y="260" text-anchor="middle" font-size="11" font-weight="600" fill="#86efac">Analyzed</text>
+    <rect x="530" y="246" width="36" height="20" fill="#0d1730"/>
+    <text x="560" y="261" text-anchor="end" font-size="14" font-weight="700" fill="#7dd3fc">88%</text>
+  </g>
+  <line x1="30" y1="276" x2="590" y2="276" stroke="#16223d"/>
+
+  <!-- Row 4 -->
+  <text x="52" y="301" font-size="14" fill="#e2e8f0">Workflow</text>
+  <rect x="270" y="284" width="104" height="24" rx="12" fill="#1e293b"/>
+  <text x="322" y="300" text-anchor="middle" font-size="11" fill="#94a3b8">Pending</text>
+  <text x="560" y="301" text-anchor="end" font-size="14" fill="#475569">--</text>
+  <g class="a" style="animation-name:f60">
+    <rect x="270" y="284" width="104" height="24" rx="12" fill="#052e1a" stroke="#22c55e"/>
+    <text x="322" y="300" text-anchor="middle" font-size="11" font-weight="600" fill="#86efac">Analyzed</text>
+    <rect x="530" y="286" width="36" height="20" fill="#0d1730"/>
+    <text x="560" y="301" text-anchor="end" font-size="14" font-weight="700" fill="#7dd3fc">90%</text>
+  </g>
+  <line x1="30" y1="316" x2="590" y2="316" stroke="#16223d"/>
+
+  <!-- Row 5 -->
+  <text x="52" y="341" font-size="14" fill="#e2e8f0">Tech Stack</text>
+  <rect x="270" y="324" width="104" height="24" rx="12" fill="#1e293b"/>
+  <text x="322" y="340" text-anchor="middle" font-size="11" fill="#94a3b8">Pending</text>
+  <text x="560" y="341" text-anchor="end" font-size="14" fill="#475569">--</text>
+  <g class="a" style="animation-name:f70">
+    <rect x="270" y="324" width="104" height="24" rx="12" fill="#052e1a" stroke="#22c55e"/>
+    <text x="322" y="340" text-anchor="middle" font-size="11" font-weight="600" fill="#86efac">Analyzed</text>
+    <rect x="530" y="326" width="36" height="20" fill="#0d1730"/>
+    <text x="560" y="341" text-anchor="end" font-size="14" font-weight="700" fill="#7dd3fc">96%</text>
+  </g>
+
+  <!-- Scan line -->
+  <rect class="scan" x="34" y="158" width="552" height="2" rx="1" fill="#7dd3fc"/>
+
+  <!-- Code window -->
+  <g class="a" style="animation-name:f22">
+    <rect x="610" y="54" width="262" height="150" rx="12" fill="#0d1730" stroke="#1e3a5f"/>
+    <circle cx="626" cy="68" r="3.5" fill="#ef4444"/>
+    <circle cx="640" cy="68" r="3.5" fill="#facc15"/>
+    <circle cx="654" cy="68" r="3.5" fill="#22c55e"/>
+    <text class="mono" x="860" y="72" text-anchor="end" font-size="10" fill="#64748b">analyze.js</text>
+    <line x1="610" y1="80" x2="872" y2="80" stroke="#1e293b"/>
+
+    <g class="mono" font-size="11" fill="#cbd5e1">
+      <text x="624" y="98"><tspan class="k">const</tspan> site = <tspan class="k">await</tspan> fetch(url);</text>
+      <text x="624" y="115"><tspan class="k">const</tspan> dom = parse(site.html);</text>
+      <text x="624" y="132"><tspan class="k">const</tspan> stack = detectTech(dom);</text>
+      <text x="624" y="149"><tspan class="k">const</tspan> ui = scoreDesign(dom);</text>
+      <text x="624" y="166"><tspan class="k">const</tspan> flow = mapWorkflow(dom);</text>
+      <text x="624" y="183"><tspan class="s">report</tspan>.build({ stack, ui, flow });</text>
+    </g>
+    <rect class="r" style="animation-name:rc25" x="618" y="86" width="250" height="16" fill="#0d1730"/>
+    <rect class="r" style="animation-name:rc30" x="618" y="103" width="250" height="16" fill="#0d1730"/>
+    <rect class="r" style="animation-name:rc35" x="618" y="120" width="250" height="16" fill="#0d1730"/>
+    <rect class="r" style="animation-name:rc40" x="618" y="137" width="250" height="16" fill="#0d1730"/>
+    <rect class="r" style="animation-name:rc45" x="618" y="154" width="250" height="16" fill="#0d1730"/>
+    <rect class="r" style="animation-name:rc50" x="618" y="171" width="250" height="16" fill="#0d1730"/>
+    <rect x="850" y="172" width="6" height="12" fill="#7dd3fc">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Cartoon AI robot -->
+  <g class="robot">
+    <g transform="translate(740 312)">
+      <g class="float">
+        <!-- antenna -->
+        <line x1="0" y1="-78" x2="0" y2="-96" stroke="#7dd3fc" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="0" cy="-100" r="6" fill="#7dd3fc">
+          <animate attributeName="r" values="5;8;5" dur="1.2s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="1;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+        </circle>
+        <!-- ears -->
+        <rect x="-54" y="-58" width="9" height="26" rx="4" fill="#7dd3fc"/>
+        <rect x="45" y="-58" width="9" height="26" rx="4" fill="#7dd3fc"/>
+        <!-- head -->
+        <rect x="-45" y="-78" width="90" height="66" rx="22" fill="#e6f6ff" stroke="#7dd3fc" stroke-width="2"/>
+        <rect x="-34" y="-68" width="68" height="44" rx="14" fill="#0b1a33"/>
+        <g class="eyes">
+          <ellipse cx="-14" cy="-50" rx="6" ry="8" fill="#7dd3fc"/>
+          <ellipse cx="14" cy="-50" rx="6" ry="8" fill="#7dd3fc"/>
+        </g>
+        <path d="M-9 -35 Q0 -28 9 -35" fill="none" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="-26" cy="-38" r="3" fill="#22c55e" fill-opacity="0.5"/>
+        <circle cx="26" cy="-38" r="3" fill="#22c55e" fill-opacity="0.5"/>
+        <!-- body -->
+        <rect x="-36" y="-8" width="72" height="56" rx="16" fill="#bfe6fb" stroke="#7dd3fc" stroke-width="2"/>
+        <circle cx="0" cy="16" r="7" fill="#22c55e">
+          <animate attributeName="opacity" values="1;0.4;1" dur="1s" repeatCount="indefinite"/>
+        </circle>
+        <rect x="-18" y="30" width="36" height="5" rx="2.5" fill="#7dd3fc"/>
+        <!-- left arm (typing) -->
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="0 -36 8;10 -36 8;0 -36 8" dur="0.5s" repeatCount="indefinite"/>
+          <line x1="-36" y1="8" x2="-50" y2="40" stroke="#7dd3fc" stroke-width="9" stroke-linecap="round"/>
+          <circle cx="-50" cy="42" r="7" fill="#e6f6ff" stroke="#7dd3fc" stroke-width="2"/>
+        </g>
+        <!-- right arm (typing) -->
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="10 36 8;0 36 8;10 36 8" dur="0.5s" repeatCount="indefinite"/>
+          <line x1="36" y1="8" x2="50" y2="40" stroke="#7dd3fc" stroke-width="9" stroke-linecap="round"/>
+          <circle cx="50" cy="42" r="7" fill="#e6f6ff" stroke="#7dd3fc" stroke-width="2"/>
+        </g>
+      </g>
+      <!-- desk + keyboard -->
+      <rect x="-86" y="52" width="172" height="10" rx="5" fill="#1e293b"/>
+      <rect x="-48" y="46" width="96" height="6" rx="3" fill="#334155"/>
+      <rect x="-40" y="47" width="10" height="3" rx="1" fill="#22c55e">
+        <animate attributeName="opacity" values="1;0.2;1" dur="0.4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="-20" y="47" width="10" height="3" rx="1" fill="#7dd3fc">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="0.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="0" y="47" width="10" height="3" rx="1" fill="#22c55e">
+        <animate attributeName="opacity" values="1;0.2;1" dur="0.35s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="20" y="47" width="10" height="3" rx="1" fill="#7dd3fc">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="0.45s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- Backend routes -->
+  <rect x="30" y="384" width="840" height="110" rx="16" fill="#0d1730" stroke="#1e293b"/>
+  <text x="52" y="408" font-size="11" font-weight="700" fill="#64748b" letter-spacing="1.2">BACKEND ROUTES</text>
+
+  <!-- connectors -->
+  <g class="a" style="animation-name:f55">
+    <line class="dash" x1="270" y1="450" x2="350" y2="450" stroke="#7dd3fc" stroke-width="2.5"/>
+    <line class="dash" x1="550" y1="450" x2="630" y2="450" stroke="#7dd3fc" stroke-width="2.5"/>
+    <polygon points="344,443 356,450 344,457" fill="#7dd3fc"/>
+    <polygon points="624,443 636,450 624,457" fill="#7dd3fc"/>
+    <circle r="4.5" fill="#22c55e">
+      <animateMotion path="M270 450 H630" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <line x1="270" y1="450" x2="350" y2="450" stroke="#1e3a5f" stroke-width="2"/>
+  <line x1="550" y1="450" x2="630" y2="450" stroke="#1e3a5f" stroke-width="2"/>
+
+  <!-- route 1 (green) -->
+  <rect x="50" y="420" width="220" height="58" rx="14" fill="#052e1a" stroke="#22c55e" stroke-width="2"/>
+  <text class="mono" x="160" y="446" text-anchor="middle" font-size="14" font-weight="700" fill="#e2e8f0">GET /api/analyze</text>
+  <text x="160" y="465" text-anchor="middle" font-size="11" fill="#86efac">input: URL / project info</text>
+
+  <!-- AI engine (light blue, middle) -->
+  <rect x="350" y="420" width="200" height="58" rx="14" fill="#0c2a3d" stroke="#7dd3fc" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="450" y="446" text-anchor="middle" font-size="14" font-weight="700" fill="#e2e8f0">AI Analysis Engine</text>
+  <text x="450" y="465" text-anchor="middle" font-size="11" fill="#7dd3fc">crawl · analyze · score</text>
+
+  <!-- route 2 (green) -->
+  <rect x="630" y="420" width="220" height="58" rx="14" fill="#052e1a" stroke="#22c55e" stroke-width="2"/>
+  <text class="mono" x="740" y="446" text-anchor="middle" font-size="14" font-weight="700" fill="#e2e8f0">POST /api/report</text>
+  <text x="740" y="465" text-anchor="middle" font-size="11" fill="#86efac">output: JSON / PDF report</text>
+
+  <!-- Report ready banner -->
+  <g class="a" style="animation-name:f75">
+    <rect x="30" y="506" width="840" height="36" rx="12" fill="#052e1a" stroke="#22c55e"/>
+    <circle cx="54" cy="524" r="8" fill="#22c55e"/>
+    <path d="M50 524 L53 527 L59 520" fill="none" stroke="#052e1a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="72" y="529" font-size="13" font-weight="600" fill="#86efac">Report ready: structure, design, features, workflow and tech stack analyzed</text>
+    <rect x="770" y="513" width="88" height="22" rx="11" fill="#7dd3fc"/>
+    <text x="814" y="528" text-anchor="middle" font-size="11" font-weight="700" fill="#0a1020">Export</text>
+  </g>
+</svg>
