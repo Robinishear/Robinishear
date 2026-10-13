@@ -32,7 +32,11 @@
 ## Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
 
 
-
+</g>
+<p align="center">
+<p align="center">
+  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-software-analysis.svg" />
+</p>
 
 </g>
 <p align="center">
