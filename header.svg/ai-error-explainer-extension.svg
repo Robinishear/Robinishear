@@ -291,7 +291,6 @@
 <!-- Animated perimeter border (same maroon/rose travelling highlight as first banner) -->
 <rect x="4" y="4" width="1265" height="729" rx="10" fill="none" stroke="#87536a" stroke-opacity=".28" stroke-width="2"/>
 <rect x="4" y="4" width="1265" height="729" rx="10" fill="none" stroke="url(#borderFlow)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="190 70 42 70" filter="url(#bglow)">
-
-<rect x="5" y="5" width="1590" height="790" rx="25" fill="none" stroke="url(#borderFlow)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="190 70 42 70" filter="url(#glow)">
+<animate attributeName="stroke-dashoffset" values="0;-744;0" dur="9s" repeatCount="indefinite"/>
 </rect>
 </svg>
