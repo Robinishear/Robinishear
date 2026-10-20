@@ -2,10 +2,10 @@
 <title id="t">Robin Ryan, Artificial Intelligence</title><desc id="d">AI skills with an animated hacker-style rotating globe: LLM, RAG, AI chatbot, Python, VS Code extension, algorithms and data structures.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#100b11"/>
+<stop offset="0" stop-color="#1b0b14"/>
 <stop offset=".30" stop-color="#180b14"/>
-<stop offset=".62" stop-color="#260d19"/>
-<stop offset="1" stop-color="#351020"/>
+<stop offset=".62" stop-color="#2d0b1b"/>
+<stop offset="1" stop-color="#481027"/>
 </linearGradient>
 <linearGradient id="borderFlow" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#3b1527"/>
