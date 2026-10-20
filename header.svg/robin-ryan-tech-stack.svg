@@ -209,6 +209,6 @@
 <rect width="1600" height="760" fill="url(#gSweep)"/><rect width="1600" height="760" fill="url(#gVig)"/></g>
 <!-- Subtle animated perimeter border: one thin orange highlight travels clockwise. -->
 <rect x="5" y="5" width="1590" height="750" rx="24" fill="none" stroke="#87536a" stroke-opacity=".24" stroke-width="1.4"/>
-<rect x="5" y="5" width="1590" height="750" rx="24" fill="none" stroke="#fb923c" stroke-opacity=".95" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="150 90 28 90">
+<rect x="5" y="5" width="1590" height="750" rx="24" fill="none" stroke="#87536a" stroke-opacity=".95" stroke-width="1.7" stroke-linecap="round" stroke-dasharray="150 90 28 90">
   <animate attributeName="stroke-dashoffset" from="0" to="-716" dur="8s" repeatCount="indefinite"/>
 </rect></svg>
