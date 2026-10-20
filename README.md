@@ -45,9 +45,6 @@
 
 
 
-
-## Contribution Activity
-
 <div align="center">
 
 
