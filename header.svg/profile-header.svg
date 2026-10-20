@@ -164,9 +164,5 @@
 </g>
 </g>
 
-<!-- Animated perimeter border (same as AI banner) -->
-<rect x="5" y="5" width="1590" height="670" rx="25" fill="none" stroke="#87536a" stroke-opacity=".28" stroke-width="2"/>
-<rect x="5" y="5" width="1590" height="670" rx="25" fill="none" stroke="url(#borderFlow)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="190 70 42 70" filter="url(#glow)">
-<animate attributeName="stroke-dashoffset" from="0" to="-744" dur="9s" repeatCount="indefinite"/>
-</rect>
+
 </svg>
