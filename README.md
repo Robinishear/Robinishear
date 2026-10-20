@@ -2,25 +2,14 @@
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/profile-header.svg" />
 </p>
-
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-ai-section.svg" />
 </p>
-
-
-
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-tech-stack.svg" />
 </p>
-
-
-
-
-## Featured Project
 
 </g>
 <p align="center">
