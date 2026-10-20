@@ -25,6 +25,7 @@
 <linearGradient id="gScan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#80536a" stop-opacity="0"/><stop offset=".85" stop-color="#80536a" stop-opacity=".28"/><stop offset="1" stop-color="#a5f3fc" stop-opacity=".8"/></linearGradient>
 <radialGradient id="gVig" cx="50%" cy="48%" r="75%"><stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".10"/></radialGradient>
 <radialGradient id="gCore" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#5f3045" stop-opacity=".09"/><stop offset="1" stop-color="#5f3045" stop-opacity="0"/></radialGradient>
+<radialGradient id="gOrangeLeftGlow" gradientUnits="userSpaceOnUse" cx="235" cy="455" r="520"><stop offset="0" stop-color="#FFB84D" stop-opacity=".14"/><stop offset=".38" stop-color="#FF9D32" stop-opacity=".085"/><stop offset=".72" stop-color="#FF8A24" stop-opacity=".03"/><stop offset="1" stop-color="#FF8A24" stop-opacity="0"/></radialGradient>
 <radialGradient id="gSphere" cx="36%" cy="30%" r="80%"><stop offset="0" stop-color="#542039" stop-opacity=".55"/><stop offset=".55" stop-color="#2b1020" stop-opacity=".92"/><stop offset="1" stop-color="#070b18" stop-opacity=".98"/></radialGradient>
 <radialGradient id="gShade" cx="50%" cy="50%" r="50%"><stop offset=".62" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#160912" stop-opacity=".75"/></radialGradient>
 <radialGradient id="gAtmo" cx="50%" cy="50%" r="50%"><stop offset=".72" stop-color="#5f3045" stop-opacity="0"/><stop offset=".83" stop-color="#87536a" stop-opacity=".30"/><stop offset="1" stop-color="#5f3045" stop-opacity="0"/></radialGradient>
@@ -46,7 +47,7 @@
 
 <rect width="1600" height="800" fill="#000"/>
 
-<g clip-path="url(#frame)"><rect width="1600" height="800" fill="url(#bg)"/><rect width="1600" height="800" fill="url(#dots)"/><rect width="1600" height="800" fill="url(#grid)"/>
+<g clip-path="url(#frame)"><rect width="1600" height="800" fill="url(#bg)"/><rect width="1600" height="800" fill="url(#gOrangeLeftGlow)"/><rect width="1600" height="800" fill="url(#dots)"/><rect width="1600" height="800" fill="url(#grid)"/>
 
 <g filter="url(#orb)">
 <ellipse cx="200" cy="160" rx="330" ry="170" fill="#5f3045" opacity="0.07"><animateTransform attributeName="transform" type="translate" values="0 0;50 13;-36 36;0 0" dur="14s" repeatCount="indefinite"/></ellipse>
@@ -179,6 +180,6 @@
 <!-- Animated perimeter border: the maroon/rose highlight travels around all four sides. -->
 <rect x="5" y="5" width="1590" height="790" rx="25" fill="none" stroke="#87536a" stroke-opacity=".28" stroke-width="2"/>
 <rect x="5" y="5" width="1590" height="790" rx="25" fill="none" stroke="url(#borderFlow)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="190 70 42 70" filter="url(#glow)">
-<animate attributeName="stroke-dashoffset" from="0" to="-744" dur="4.5s" repeatCount="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="0;-744;0" dur="9s" repeatCount="indefinite"/>
 </rect>
 </svg>
