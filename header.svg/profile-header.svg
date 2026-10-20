@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3840" height="1632" viewBox="0 0 1600 680" role="img" aria-labelledby="t d">
 <title id="t">Robin Ryan, Web App Full Stack Developer</title>
-<desc id="d">Animated profile banner: Robin Ryan, web app full stack developer. 160+ repositories, 16 client projects, 3,013 LinkedIn followers.</desc>
+<desc id="d">Animated profile banner: Robin Ryan, web app full stack developer. LLM, RAG, AI chatbot, Python, Golang, JavaScript, VS Code extensions, algorithms, data structures.</desc>
 <defs>
 <style>
-  .sans{font-family:Inter,"Segoe UI","Helvetica Neue",Arial,sans-serif}
+  .sans{font-family:Inter,"Segoe UI","Helvetica Neue",Arial,sans-serif;font-style:italic}
   .in{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
   @keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
   .photo-in{transform-box:fill-box;transform-origin:center;animation:zoom 1.1s cubic-bezier(.2,.8,.2,1) .15s both}
@@ -61,6 +61,8 @@
 <circle r="3.6" fill="#2DD4BF"><animateMotion path="M1112 609 L1189 589" dur="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.15;.85;1" dur="3.4s" repeatCount="indefinite"/></circle>
 <rect x="0" y="675" width="1600" height="5" fill="url(#gBeam)"/>
 </g>
+<!-- outer border: black -->
+<rect x=".5" y=".5" width="1599" height="679" rx="28" fill="none" stroke="#000" stroke-width="1"/>
 
 <!-- name + headline -->
 <g class="in" style="animation-delay:.1s">
@@ -69,20 +71,27 @@
 <g class="in" style="animation-delay:.3s">
 <text class="sans" x="72" y="258" font-size="38" font-weight="700" fill="url(#gSub)">Web App Full Stack Developer</text></g>
 
+<!-- skills: names only, no icons, no borders -->
+<g class="sans" font-size="25" font-weight="500" letter-spacing="5" fill="#C9D4EC">
+<g class="in" style="animation-delay:.5s"><text x="74" y="350">LLM<tspan fill="#2DD4BF"> · </tspan>RAG<tspan fill="#2DD4BF"> · </tspan>AI CHATBOT<tspan fill="#2DD4BF"> · </tspan>PYTHON</text></g>
+<g class="in" style="animation-delay:.65s"><text x="74" y="410">GOLANG<tspan fill="#B48CFF"> · </tspan>JAVASCRIPT<tspan fill="#B48CFF"> · </tspan>VS CODE EXTENSION</text></g>
+<g class="in" style="animation-delay:.8s"><text x="74" y="470">ALGORITHMS<tspan fill="#FFB84D"> · </tspan>DATA STRUCTURES</text></g>
+</g>
+
 <!-- stats -->
 <rect x="72" y="542" width="900" height="1.5" fill="#1F2B47" class="in" style="animation-delay:1.1s"/>
 <g class="in" style="animation-delay:1.2s">
-<rect x="72" y="562" width="60" height="60" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#2DD4BF" stroke-opacity=".5" stroke-width="1.6"/>
+<rect x="72" y="562" width="60" height="60" rx="16" fill="#2DD4BF" fill-opacity=".1" stroke="#000" stroke-width="1.6"/>
 <text class="sans" x="102" y="601" font-size="24" font-weight="800" fill="#2DD4BF" text-anchor="middle">&lt;/&gt;</text>
 <text class="sans" x="150" y="595" font-size="44" font-weight="800" letter-spacing="-1" fill="#E8EEF9">160+</text>
 <text class="sans" x="150" y="620" font-size="20" fill="#8A97B5">Repositories</text></g>
 <g class="in" style="animation-delay:1.3s">
-<rect x="392" y="562" width="60" height="60" rx="16" fill="#B48CFF" fill-opacity=".1" stroke="#B48CFF" stroke-opacity=".5" stroke-width="1.6"/>
+<rect x="392" y="562" width="60" height="60" rx="16" fill="#B48CFF" fill-opacity=".1" stroke="#000" stroke-width="1.6"/>
 <path d="M410 576h24v32h-24z M416 585h12 M416 592h12 M416 599h7" fill="none" stroke="#B48CFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" transform="translate(-6,-2)"/>
 <text class="sans" x="470" y="595" font-size="44" font-weight="800" letter-spacing="-1" fill="#E8EEF9">16</text>
 <text class="sans" x="470" y="620" font-size="20" fill="#8A97B5">Client Projects</text></g>
 <g class="in" style="animation-delay:1.4s">
-<rect x="712" y="562" width="60" height="60" rx="16" fill="#FFB84D" fill-opacity=".1" stroke="#FFB84D" stroke-opacity=".5" stroke-width="1.6"/>
+<rect x="712" y="562" width="60" height="60" rx="16" fill="#FFB84D" fill-opacity=".1" stroke="#000" stroke-width="1.6"/>
 <text class="sans" x="742" y="602" font-size="28" font-weight="800" fill="#FFB84D" text-anchor="middle">in</text>
 <text class="sans" x="790" y="595" font-size="44" font-weight="800" letter-spacing="-1" fill="#E8EEF9">3,013</text>
 <text class="sans" x="790" y="620" font-size="20" fill="#8A97B5">LinkedIn Followers</text></g>
@@ -93,17 +102,16 @@
 <circle cx="1322" cy="340" r="205" fill="url(#gMono)"/>
 <!-- Put your base64 photo in href: href="data:image/jpeg;base64,...." (keep it under 200 KB) -->
 <image x="1117" y="135" width="410" height="410" clip-path="url(#face)" preserveAspectRatio="xMidYMid slice" href=""/>
-<circle cx="1322" cy="340" r="205" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
-<circle cx="1322" cy="340" r="223" fill="none" stroke="#1F2B47" stroke-width="2"/>
+<circle cx="1322" cy="340" r="223" fill="none" stroke="#000" stroke-width="2"/>
 <circle cx="1322" cy="340" r="233" fill="none" stroke="url(#gRing)" stroke-width="6" stroke-linecap="round" stroke-dasharray="381 1083"><animateTransform attributeName="transform" type="rotate" from="0 1322 340" to="360 1322 340" dur="9s" repeatCount="indefinite"/></circle>
 <g><animateTransform attributeName="transform" type="rotate" from="0 1322 340" to="360 1322 340" dur="18s" repeatCount="indefinite"/><circle cx="1571" cy="340" r="7" fill="#2DD4BF"/><circle cx="1571" cy="340" r="15" fill="#2DD4BF" opacity=".25" filter="url(#soft)"/></g>
 <g><animateTransform attributeName="transform" type="rotate" from="120 1322 340" to="480 1322 340" dur="18s" repeatCount="indefinite"/><circle cx="1571" cy="340" r="7" fill="#FFB84D"/><circle cx="1571" cy="340" r="15" fill="#FFB84D" opacity=".25" filter="url(#soft)"/></g>
 <g><animateTransform attributeName="transform" type="rotate" from="240 1322 340" to="600 1322 340" dur="18s" repeatCount="indefinite"/><circle cx="1571" cy="340" r="7" fill="#B48CFF"/><circle cx="1571" cy="340" r="15" fill="#B48CFF" opacity=".25" filter="url(#soft)"/></g>
 <circle cx="1322" cy="340" r="205" fill="none" stroke="#2DD4BF" stroke-width="2"><animate attributeName="r" values="205;275" dur="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".45;0" dur="3.6s" repeatCount="indefinite"/></circle>
 
-<!-- Artificial Intelligence tab (dark box, no border) -->
+<!-- Artificial Intelligence tab (black box, no border) -->
 <g transform="translate(1200, 560)">
-  <rect x="0" y="0" width="310" height="60" rx="10" fill="#0D1117" opacity="0.8"/>
+  <rect x="0" y="0" width="310" height="60" rx="10" fill="#000" opacity="0.8"/>
   <text class="sans" x="155" y="37" font-size="22" font-weight="700" fill="#E8EEF9" text-anchor="middle">Artificial Intelligence</text>
 </g>
 </g>
