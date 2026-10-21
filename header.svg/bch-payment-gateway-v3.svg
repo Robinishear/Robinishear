@@ -150,15 +150,72 @@
 </g>
 
 <!-- tech pills -->
-<g font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="14" fill="#bfdbfe" text-anchor="middle">
-<rect x="365.5" y="518" width="120" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="425.5" y="538">Web3 Architect</text>
-<rect x="497.5" y="518" width="70" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="532.5" y="538">XO</text>
-<rect x="579.5" y="518" width="90" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="624.5" y="538">WizConnect</text>
-<rect x="681.5" y="518" width="70" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="716.5" y="538">N-Prefix</text>
-<rect x="763.5" y="518" width="145" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="836" y="538">Electron Cash</text>
-<rect x="920.5" y="518" width="90" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="965.5" y="538">Selene</text>
-<rect x="1022.5" y="518" width="130" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="1087.5" y="538">Bitcoin.com</text>
-<rect x="1164.5" y="518" width="70" height="30" rx="15" fill="#3b82f6" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".6"/><text x="1199.5" y="538">BCH</text>
+
+  
+<!-- Technology and wallet badges -->
+<g font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace"
+   font-size="12"
+   fill="#bfdbfe"
+   text-anchor="middle">
+
+  <!-- Full-Stack & Web3 Architect -->
+  <rect x="40" y="518" width="218" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="149" y="538">Full-Stack &amp; Web3 Architect</text>
+
+  <!-- Decorative separator -->
+  <text x="274" y="539" font-size="18" fill="#60a5fa">✦</text>
+
+  <!-- Web3 Architect -->
+  <rect x="290" y="518" width="130" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="355" y="538">Web3 Architect</text>
+
+  <!-- XO Component -->
+  <rect x="432" y="518" width="126" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="495" y="538">XO Component</text>
+
+  <!-- WizardConnect -->
+  <rect x="570" y="518" width="140" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="640" y="538">WizardConnect</text>
+
+  <!-- Network Prefix -->
+  <rect x="722" y="518" width="132" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="788" y="538">Network Prefix</text>
+
+  <!-- Electron Cash -->
+  <rect x="866" y="518" width="120" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="926" y="538">Electron Cash</text>
+
+  <!-- Selene Wallet -->
+  <rect x="998" y="518" width="126" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="1061" y="538">Selene Wallet</text>
+
+  <!-- Bitcoin.com Wallet -->
+  <rect x="1136" y="518" width="168" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="1220" y="538">Bitcoin.com Wallet</text>
+
+  <!-- Bitcoin Cash -->
+  <rect x="1316" y="518" width="110" height="30" rx="15"
+        fill="#3b82f6" fill-opacity=".14"
+        stroke="#60a5fa" stroke-opacity=".6"/>
+  <text x="1371" y="538">Bitcoin Cash</text>
+
 </g>
+
 </g>
 </svg>
