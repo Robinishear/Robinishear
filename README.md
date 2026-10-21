@@ -19,10 +19,6 @@
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-error-explainer-extension.svg" />
 </p>
 
-**Tech:** TypeScript · VS Code Extension API · esbuild
-
-## Available on [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=robinishear.ai-error-explainer)
-
 
 </g>
 <p align="center">
