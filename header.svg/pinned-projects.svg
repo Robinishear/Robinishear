@@ -24,30 +24,25 @@
 <ellipse cx="180" cy="60" rx="300" ry="120" fill="#60a5fa" opacity=".05"/>
 </g>
 
-<!-- ভেসে ওঠা ছোট ডট -->
 <circle r="1.6" fill="#fdba74"><animateMotion path="M300 520 L330 -10" dur="12s" begin="-3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;.8;0" keyTimes="0;.15;.8;1" dur="12s" begin="-3s" repeatCount="indefinite"/></circle>
 <circle r="1.2" fill="#e5e7eb"><animateMotion path="M620 520 L600 -10" dur="10s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="10s" begin="-6s" repeatCount="indefinite"/></circle>
 <circle r="2" fill="#fb923c"><animateMotion path="M980 520 L1010 -10" dur="13s" begin="-9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;.8;0" keyTimes="0;.15;.8;1" dur="13s" begin="-9s" repeatCount="indefinite"/></circle>
 <circle r="1.4" fill="#e5e7eb"><animateMotion path="M1320 520 L1290 -10" dur="11s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;.7;0" keyTimes="0;.15;.8;1" dur="11s" begin="-2s" repeatCount="indefinite"/></circle>
 <circle r="1.6" fill="#fdba74"><animateMotion path="M1480 520 L1500 -10" dur="12.5s" begin="-5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;.8;0" keyTimes="0;.15;.8;1" dur="12.5s" begin="-5s" repeatCount="indefinite"/></circle>
 
-<!-- স্পার্কল -->
 <use xlink:href="#star" xmlns:xlink="http://www.w3.org/1999/xlink" x="1556" y="34" width="22" height="22" opacity=".9"><animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/></use>
 <use xlink:href="#star" xmlns:xlink="http://www.w3.org/1999/xlink" x="1566" y="470" width="20" height="20" opacity=".9"><animate attributeName="opacity" values="1;.25;1" dur="3.6s" repeatCount="indefinite"/></use>
 
-<!-- ব্যাজ -->
 <rect x="40" y="22" width="300" height="34" rx="17" fill="#ffffff" fill-opacity=".05" stroke="#fb923c" stroke-opacity=".4"/>
 <circle cx="62" cy="39" r="8" fill="#1a1208" stroke="#fb923c" stroke-opacity=".6"/>
 <circle cx="62" cy="39" r="3.4" fill="#fb923c" filter="url(#glow)"><animate attributeName="opacity" values=".5;1;.5" dur="2.4s" repeatCount="indefinite"/></circle>
 <text x="82" y="45" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="14" font-weight="700" letter-spacing="3.2" fill="#e5e7eb">FEATURED REPOSITORIES</text>
 
-<!-- টাইটেল -->
 <text x="40" y="118" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#f4f4f5">Pinned <tspan fill="url(#gTitle)">Projects</tspan></text>
 <text x="1560" y="112" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="20" letter-spacing="3" fill="#9ca3af">AI · RAG · TOOLING</text>
 <text x="42" y="152" font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#9ca3af">Open-source work in AI, RAG and developer tooling, built to ship.</text>
 <rect x="40" y="168" width="1520" height="2" rx="1" fill="url(#gAcc)" opacity=".7"/>
 
-<!-- কার্ড ১ -->
 <g transform="translate(40,192)"><g><animate attributeName="opacity" from="0" to="1" begin="0.3s" dur=".7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="0 18" to="0 0" begin="0.3s" dur=".7s" fill="freeze"/>
 <rect width="480" height="270" rx="22" fill="url(#gCard)"/><rect x="1" width="478" height="4" rx="2" fill="url(#gAcc)"/>
 <rect width="90" height="4" rx="2" fill="url(#gGlint)"><animate attributeName="x" values="0;390;0" dur="6.0s" repeatCount="indefinite"/></rect>
@@ -64,7 +59,6 @@
 <text x="452" y="250" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="16" font-weight="700" letter-spacing="2" fill="#fb923c">VIEW REPO →</text>
 </g></g>
 
-<!-- কার্ড ২ -->
 <g transform="translate(560,192)"><g><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur=".7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="0 18" to="0 0" begin="0.45s" dur=".7s" fill="freeze"/>
 <rect width="480" height="270" rx="22" fill="url(#gCard)"/><rect x="1" width="478" height="4" rx="2" fill="url(#gAcc)"/>
 <rect width="90" height="4" rx="2" fill="url(#gGlint)"><animate attributeName="x" values="0;390;0" dur="6.7s" repeatCount="indefinite"/></rect>
@@ -81,7 +75,6 @@
 <text x="452" y="250" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace" font-size="16" font-weight="700" letter-spacing="2" fill="#fb923c">VIEW REPO →</text>
 </g></g>
 
-<!-- কার্ড ৩ -->
 <g transform="translate(1080,192)"><g><animate attributeName="opacity" from="0" to="1" begin="0.6s" dur=".7s" fill="freeze"/><animateTransform attributeName="transform" type="translate" additive="sum" from="0 18" to="0 0" begin="0.6s" dur=".7s" fill="freeze"/>
 <rect width="480" height="270" rx="22" fill="url(#gCard)"/><rect x="1" width="478" height="4" rx="2" fill="url(#gAcc)"/>
 <rect width="90" height="4" rx="2" fill="url(#gGlint)"><animate attributeName="x" values="0;390;0" dur="7.4s" repeatCount="indefinite"/></rect>
