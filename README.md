@@ -48,11 +48,6 @@
 
 
 
-<p align="center">
-  <a href="https://robinishear.github.io/index.html/">
-    https://robinishear.github.io/index.html/
-  </a>
-</p>
 
 
 
