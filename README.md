@@ -49,11 +49,6 @@
 
 
 
-<p align="center">
-  <a href="https://robinishear.github.io/index.html/">
-    <img src="https://api.microlink.io?url=https%3A%2F%2Frobinishear.github.io%2Findex.html%2F&screenshot=true&meta=false&embed=screenshot.url" alt="Live Website Preview" width="100%" />
-  </a>
-</p>
 
 
 <div align="center">
