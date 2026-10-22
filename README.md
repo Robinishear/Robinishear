@@ -28,11 +28,6 @@
 </p>
 
 
-</g>
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/pinned-projects.svg" />
-</p
   
 </g>
 
@@ -45,6 +40,11 @@
 </g>
 
 
+
+<p align="center">
+<p align="center">
+  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robot_code_war.svg" />
+</p>
 
 
 
