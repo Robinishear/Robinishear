@@ -51,7 +51,7 @@
 
 <div align="center">
 
-![Error](./header/ai-error-explainer-extension.svg)
+![Error](./header/ai-error-explainer-how-it-works.svg)
 
 </div>
 
