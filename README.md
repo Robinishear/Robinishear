@@ -41,6 +41,11 @@
 
 ![Stack](./files/stack-city.svg)
 
+![Lofi](./files/lofi-dev-room.svg)
+
+![Mode](./files/made-in-bangladesh.svg)
+
+
 </div>
 
 
