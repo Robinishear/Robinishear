@@ -5,6 +5,12 @@
 
 <p align="center">
 <p align="center">
+  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-ai-section.svg" />
+</p>
+
+
+<p align="center">
+<p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/bch-payment-gateway-v3.svg" />
 </p>
 
@@ -26,11 +32,6 @@
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-tech-stack.svg" />
-</p>
-
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-ai-section.svg" />
 </p>
 
 
