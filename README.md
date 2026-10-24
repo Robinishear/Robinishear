@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Skills](./header/ai-error-explainer-extension.svg)
+![Error](./header/ai-error-explainer-extension.svg)
 
 </div>
 
