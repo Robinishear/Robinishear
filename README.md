@@ -2,31 +2,22 @@
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/profile-header.svg" />
 </p>
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-ai-section.svg" />
 </p>
-
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-tech-stack.svg" />
 </p>
-
-
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/bch-blaze-showcase.svg" />
 </p>
-
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/architecture.svg" />
 </p>
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/bch-payment-gateway-v3.svg" />
@@ -35,29 +26,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-error-explainer-extension.svg" />
 </p>
-
-
-
-
-
-
-  
-</g>
-
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-software-analysis.svg" />
 </p>
-
-</g>
-
-
-
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robot_code_war.svg" />
