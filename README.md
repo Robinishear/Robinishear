@@ -1,46 +1,62 @@
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/profile-header.svg" />
-</p>
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-ai-section.svg" />
-</p>
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/robin-ryan-tech-stack.svg" />
-</p>
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/bch-blaze-showcase.svg" />
-</p>
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/architecture.svg" />
-</p>
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/bch-payment-gateway-v3.svg" />
-</p>
+<div align="center">
+
+![Robin Ryan](./header/header.svg)
+
+</div>
+
+
+<div align="center">
+
+![AI, Web3 and Full Stack](./header/ai-mission-control.svg)
+
+</div>
+
+
+<div align="center">
+
+![Skills](./header/skills.svg)
+
+</div>
+
+
+
+<div align="center">
+
+![BCH BLAZE showcase](./header/bch-blaze-showcase.svg)
+
+![How I build](./header/architecture.svg)
+
+![Crypto payment gateway](./header/bch-payment-gateway-v3.svg)
+
+</div>
+
+
+
+
+<div align="center">
+
+![Algorithm](./files/algorithm-playground.svg)
+
+![Docker Rack](./files/docker-rack.svg)
+
+![Stack](./files/stack-city.svg)
+
+</div>
+
+
+
+
+<div align="center">
+
+![Skills](./header/ai-error-explainer-extension.svg)
+
+</div>
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-<p align="center">
-<p align="center">
-  <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-error-explainer-extension.svg" />
-</p>
 <p align="center">
 <p align="center">
   <img src="https://github.com/Robinishear/Robinishear/blob/main/header.svg/ai-software-analysis.svg" />
